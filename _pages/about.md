@@ -67,7 +67,7 @@ Wireless Communication, Reinforcement Learning, UAV, Machine Learning Algorithms
 [1] "Multi-Modal Trajectory Planning for Emergency-Oriented Air-Ground Collaborative Sensing and Communication", Yaxi Liu, Quanxi Zhou, Wencan Mao, Xulong Li, Wei Huangfu, Manabu Tsukada, Yusheng Ji, Keping Long, IEEE Transactions on Cognitive Communications and Networking, DOI: 10.1109/TCCN.2025.3585254.  
 [2] "Cellular Connected UAV Anti-Interference Path Planning Based on PDS-DDPG and TOPEM", Quanxi Zhou, Yongjing Wang, Ruiyu Shen, Jin Nakazato, Manabu Tsukada, Zhenyu Guan, IEEE Journal on Miniaturization for Air and Space Systems, 2024.  
 [3] "Research and Analysis of Data Value of Online Shopping Platform", Quanxi Zhou, Computer Programming Skills and Maintenance, 2019(01): 87–89. DOI: 10.16184/j.cnki.comprg.2019.01.030.  
-[4] "Analysis of Common Data Preprocessing Technology", Quanxi Zhou, Communications World, **2019**, 26(01): 17–18.  
+[4] "Analysis of Common Data Preprocessing Technology", Quanxi Zhou, Communications World, 2019, 26(01): 17–18.  
 [5] "Analysis of Key Technologies of Internet Information Security in the Data Era", Quanxi Zhou, Information Recording Materials, 2019, 20(01): 115–116.  
 
 ### Conference Paper  
