@@ -65,13 +65,13 @@ Wireless Communication, Reinforcement Learning, UAV, Machine Learning Algorithms
 
 ### Journal
 [1] "Multi-Modal Trajectory Planning for Emergency-Oriented Air-Ground Collaborative Sensing and Communication", Yaxi Liu, Quanxi Zhou, Wencan Mao, Xulong Li, Wei Huangfu, Manabu Tsukada, Yusheng Ji, Keping Long, IEEE Transactions on Cognitive Communications and Networking, DOI: 10.1109/TCCN.2025.3585254.  
-[2] "Cellular Connected UAV Anti-Interference Path Planning Based on PDS-DDPG and TOPEM", Quanxi Zhou, Yongjing Wang, Ruiyu Shen, Jin Nakazato, Manabu Tsukada, Zhenyu Guan, IEEE Journal on Miniaturization for Air and Space Systems, **2024**.  
-[3] "Research and Analysis of Data Value of Online Shopping Platform", Quanxi Zhou, Computer Programming Skills and Maintenance, **2019(01)**: 87–89. DOI: 10.16184/j.cnki.comprg.2019.01.030.  
+[2] "Cellular Connected UAV Anti-Interference Path Planning Based on PDS-DDPG and TOPEM", Quanxi Zhou, Yongjing Wang, Ruiyu Shen, Jin Nakazato, Manabu Tsukada, Zhenyu Guan, IEEE Journal on Miniaturization for Air and Space Systems, 2024.  
+[3] "Research and Analysis of Data Value of Online Shopping Platform", Quanxi Zhou, Computer Programming Skills and Maintenance, 2019(01): 87–89. DOI: 10.16184/j.cnki.comprg.2019.01.030.  
 [4] "Analysis of Common Data Preprocessing Technology", Quanxi Zhou, Communications World, **2019**, 26(01): 17–18.  
-[5] "Analysis of Key Technologies of Internet Information Security in the Data Era", Quanxi Zhou, Information Recording Materials, **2019**, 20(01): 115–116.  
+[5] "Analysis of Key Technologies of Internet Information Security in the Data Era", Quanxi Zhou, Information Recording Materials, 2019, 20(01): 115–116.  
 
 ### Conference Paper  
-[1] "Design of Anti-Interference Path Planning for Cellular-Connected UAVs Based on Improved DDPG", Quanxi Zhou, Yongjing Wang, **2024** 10th IEEE International Conference on High Performance and Smart Computing (HPSC), pp. 71–76, IEEE, May 2024.  
+[1] "Design of Anti-Interference Path Planning for Cellular-Connected UAVs Based on Improved DDPG", Quanxi Zhou, Yongjing Wang, 2024 10th IEEE International Conference on High Performance and Smart Computing (HPSC), pp. 71–76, IEEE, May 2024.  
 [2] "Design of Enterprise Reputation Evaluation Framework Based on Encrypted Decision Tree Algorithm", Quanxi Zhou, Ruiyu Shen, IOS Press, November 21, 2024. DOI: 10.3233/FAIA241133.  
 
 ### Ongoing Works  
