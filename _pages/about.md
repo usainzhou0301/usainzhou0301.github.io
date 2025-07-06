@@ -107,7 +107,7 @@ Wireless Communication, Reinforcement Learning, UAV, Machine Learning Algorithms
 
 ---
 
-## 📬 Contact Me
+## 📬 Contact With Me
 
 📧 [usainzhou@g.ecc.u-tokyo.ac.jp](mailto:usainzhou@g.ecc.u-tokyo.ac.jp)  
 🔗 [Google Scholar](https://scholar.google.com/citations?hl=en&user=P2mHCpgAAAAJ)  
