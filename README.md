@@ -1,11 +1,10 @@
 # Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
 ![Quanxi ZHOU](usain.jpg "Quanxi Zhou")
 
 ---
 
-Quanxi Zhou is a Ph.D. student at [Tsukada Lab](https://tlab.hongo.wide.ad.jp/ja/) of School of Information Science and Technology, The University of Tokyo. He received the B.Eng. degree from the **College of Information and Electrical Engineering**, **China Agricultural University**, Beijing, China, in 2021 in Computer Science and Technology of the Honors Program, and received the M.Eng. degree from the **School of Cyber Science and Technology**, **Beihang University**, Beijing, China, in 2024, majoring in Cyberspace Security.
+Quanxi Zhou (Usain, 周泉锡) is a Ph.D. student at [Tsukada Lab](https://tlab.hongo.wide.ad.jp/ja/) of School of Information Science and Technology, The University of Tokyo. He received the B.Eng. degree from the **College of Information and Electrical Engineering**, **China Agricultural University**, Beijing, China, in 2021 in Computer Science and Technology of the Honors Program, and received the M.Eng. degree from the **School of Cyber Science and Technology**, **Beihang University**, Beijing, China, in 2024, majoring in Cyberspace Security.
 
 ---
 
