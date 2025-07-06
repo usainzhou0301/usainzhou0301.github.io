@@ -1,90 +1,107 @@
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
-![Academic Pages template example](images/homepage.png "Academic Pages template example")
-
-# Getting Started
-
-
-
-See more info at https://academicpages.github.io/
-
-## Running locally
-
-When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
-
-1. Clone the repository and made updates as detailed above.
-
-### Using a different IDE
-1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
-    On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
-    ```bash
-    sudo apt install ruby-dev ruby-bundler nodejs
-    ```
-    If you see error `Unable to locate package ruby-bundler`, `Unable to locate package nodejs `, run the following:
-    ```bash
-    sudo apt update && sudo apt upgrade -y
-    ```
-    then try run `sudo apt install ruby-dev ruby-bundler nodejs` again.
-
-    On MacOS the commands are:
-    ```bash
-    brew install ruby
-    brew install node
-    gem install bundler
-    ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-
-    If you see file permission error like `Fetching bundler-2.6.3.gem ERROR:  While executing gem (Gem::FilePermissionError) You don't have write permissions for the /var/lib/gems/3.2.0 directory.` or `Bundler::PermissionError: There was an error while trying to write to /usr/local/bin.`
-    Install Gems Locally (Recommended):
-    ```bash
-    bundle config set --local path 'vendor/bundle'
-    ```
-    then try run `bundle install` again. If succeeded, you should see a folder called `vendor` and `.bundle`.
-
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
-    You may also try `bundle exec jekyll serve -l -H localhost` to ensure jekyll to use specific dependencies on your own local machine.
-
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
-
-## Using Docker
-
-Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
-
-You can build and execute the container by running the following command in the repository:
-
-```bash
-chmod -R 777 .
-docker compose up
-```
-
-You should now be able to access the website from `localhost:4000`.
-
-### Using the DevContainer in VS Code
-
-If you are using [Visual Studio Code](https://code.visualstudio.com/) you can use the [Dev Container](https://code.visualstudio.com/docs/devcontainers/containers) that comes with this Repository. Normally VS Code detects that a development coontainer configuration is available and asks you if you want to use the container. If this doesn't happen you can manually start the container by **F1->DevContainer: Reopen in Container**. This restarts your VS Code in the container and automatically hosts your academic page locally on http://localhost:4000. All changes will be updated live to that page after a few seconds.
-
-# Maintenance
-
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
-
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
-
-## Bugfixes and enhancements
-
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
-
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+![Quanxi ZHOU](usain.jpg "Quanxi Zhou")
 
 ---
-<div align="center">
-    
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
 
-[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
-</div>
+Quanxi Zhou is a Ph.D. student at [Tsukada Lab](https://tlab.hongo.wide.ad.jp/ja/) of School of Information Science and Technology, The University of Tokyo. He received the B.Eng. degree from the **College of Information and Electrical Engineering**, **China Agricultural University**, Beijing, China, in 2021 in Computer Science and Technology of the Honors Program, and received the M.Eng. degree from the **School of Cyber Science and Technology**, **Beihang University**, Beijing, China, in 2024, majoring in Cyberspace Security.
+
+---
+
+### 📌 Research Interests
+
+- Wireless Communication  
+- Reinforcement Learning  
+- UAV  
+- Machine Learning Algorithms  
+- Computer Vision  
+- Remote Sensing
+
+---
+
+### 🎓 Educational Experience
+
+- **2024.10–present**: Ph.D. Student, University of Tokyo  
+- **2024.04–2024.10**: Research Student, University of Tokyo  
+- **2021.09–2024.01**: M.Eng., Beihang University  
+- **2017.09–2021.07**: B.Eng., China Agricultural University  
+
+---
+
+### 🎓 Teaching Experience
+
+- **2023.03–2023.07**: Teaching Assistant – Research Seminar, Beihang University  
+- **2022.03–2022.07**: Teaching Assistant – Computer Network Experiment, Beihang University  
+- **2020.09–2021.07**: Research Management – Undergraduate Research Program, China Agricultural University
+
+---
+
+### 🏢 Student Union Roles
+
+- **2022.03–2023.09**: President, Graduate Student Union, School of Cyberspace Security, Beihang University  
+- **2019.09–2020.09**: Minister of Academic Development, Student Union, China Agricultural University
+
+---
+
+### 🧪 Project Experience
+
+#### National-Level Projects:
+- **2022.10–2024.01**: Fully Homomorphic Encryption Core Algorithms (Beihang University)  
+- **2019.12–2021.03**: Autonomous Transportation Robot for Solar Greenhouse (CAU)
+
+#### University-Level Projects:
+- System Integration of Shellfish Detection (2019–2020, CAU)  
+- Raspberry System and Binocular Vehicle (2018–2020, CAU)
+
+---
+
+### 🏢 Internship Experience
+
+- Chinese Academy of Sciences (2019.03–2019.06)  
+- CNPC Research Institute of Petroleum Exploration (2019.10–2020.09)  
+- Eastsoft Technology Co., Ltd. (2020.12–2021.03)  
+- China Academy of Information and Communications Technology (2021.09–2021.12)
+
+---
+
+### 📚 Selected Publications
+
+- **IEEE TCCN**: *Multi-Modal Trajectory Planning...* (DOI: [10.1109/TCCN.2025.3585254](https://doi.org/10.1109/TCCN.2025.3585254))  
+- **IEEE J-MASS**: *Cellular Connected UAV Anti-Interference Path Planning...*  
+- *Computer Programming Skills and Maintenance*: *Research and Analysis of Data Value...*  
+- *Communications World*: *Analysis of Common Data Preprocessing Technology*  
+- *Information Recording Materials*: *Internet Information Security in the Data Era*
+
+👉 See full list on the [Publications](/publications/) page.
+
+---
+
+### 🛠 Ongoing Works
+
+- *Uncertainty-Aware Multi-Agent RL for UAV Path Planning* – IEEE TVT (Minor Revision)  
+- *CLIFF: Multi-Modal Remote Sensing* – IEEE TGRS (Under Review)  
+- *Feature-Driven Multi-Agent RL for UAVs* – IEEE TMC (Under Review)
+
+---
+
+### 🏆 Awards & Honors
+
+- **SpringGX Award**, University of Tokyo (10/2024)  
+- **Learning Excellence Scholarship**, Beihang (2022), CAU (2018–2019)  
+- **First Prize**, Chinese College Student Agricultural Robot Competition (2021)  
+- **Multiple Math Competition Prizes**, CAU, Municipal & National Level (2018–2020)
+
+---
+
+### 🧑‍⚖️ Reviewer Roles
+
+- IEEE Internet of Things Journal (2024, 2025)  
+- IEEE Vehicular Technology Conference (2025)
+
+---
+
+### 📬 Contact Me
+
+📧 Email: [usainzhou@g.ecc.u-tokyo.ac.jp](mailto:usainzhou@g.ecc.u-tokyo.ac.jp)  
+🔗 [Google Scholar](/) | [GitHub](/) *(add links as needed)*  
