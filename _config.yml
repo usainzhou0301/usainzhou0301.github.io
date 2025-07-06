@@ -9,7 +9,6 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Quanxi ZHOU"
 title_separator          : "-"
 name                     : &name "Quan ZHOU"
 description              : &description "Quanxi ZHOU; 周泉锡"
