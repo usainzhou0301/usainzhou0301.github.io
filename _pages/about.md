@@ -1,3 +1,9 @@
+---
+layout: home
+title: "Quanxi ZHOU"
+permalink: /
+---
+
 # Academic Pages
 
 ![Quanxi ZHOU](usain.jpg "Quanxi Zhou")
