@@ -43,7 +43,7 @@ Wireless Communication, Reinforcement Learning, UAV, Machine Learning Algorithms
 ### National Level
 
 - **2022.10–2024.01**: Fully Homomorphic Encryption Core Algorithms and Trustworthiness Verification Methods — National Key R&D Program Youth Scientist Project (Beihang University, Grant No. 2023YFB3106200)  
-- **2019.12–2021.03**: Autonomous Transportation Robot for Solar Greenhouse Based on ROS System — National College Student Innovation and Entrepreneurship Training Program (China Agricultural University, 202010019049)  
+- **2019.12–2021.03**: Autonomous Transportation Robot for Solar Greenhouse Based on ROS System — National College Student Innovation and Entrepreneurship Training Program (China Agricultural University, Grant No. 202010019049)  
 
 ### University Level
 
@@ -98,17 +98,17 @@ Wireless Communication, Reinforcement Learning, UAV, Machine Learning Algorithms
 
 ## 🥇 Honors
 
-2023.09 Second Prize in the Beijing Round of the China “Internet+” Innovation and Entrepreneurship Competition (Municipal Level)
-2021.06 First Prize in Chinese College Student Agricultural Robot Competition (National Level)  
-2021.04 Beijing Second Prize in the Chinese College Student Artificial Intelligence Competition (Municipal Level)  
+2023.09 Second Prize in the Beijing Round of the China “Internet+” Innovation and Entrepreneurship Competition (**Municipal Level**)  
+2021.06 First Prize in Chinese College Student Agricultural Robot Competition (**National Level**)  
+2021.04 Beijing Second Prize in the Chinese College Student Artificial Intelligence Competition (**Municipal Level**)  
 2020.06 Third Prize in “Xingnong Cup” Innovation and Entrepreneurship Competition of CAU  
 2020.06 Bronze Medal in the Innovation and Entrepreneurship Competition of CAU  
 2020.06 Bronze Medal in the Internet of CAU  
 2020.04 First Prize in Advanced Mathematics Competition of CAU  
-2019.11 Second Prize in Mathematical Modeling and Computer Application Competition (Municipal Level)  
+2019.11 Second Prize in Mathematical Modeling and Computer Application Competition (**Municipal Level**)  
 2019.04 Second Prize in Advanced Mathematics Competition of CAU  
-2018.10 Third Prize in Chinese College Students’ Advanced Mathematics Competition (National Level)  
-2018.10 Second Prize in Beijing College Students’ Advanced Mathematics Competition (Municipal Level)  
+2018.10 Third Prize in Chinese College Students’ Advanced Mathematics Competition (**National Level**)  
+2018.10 Second Prize in Beijing College Students’ Advanced Mathematics Competition (**Municipal Level**)  
 2018.06 Third Prize in “Minsheng Cup” Modeling Competition of CAU  
 2018.06 Excellent Award in the Physics Experiment Competition of CAU
 
