@@ -82,8 +82,9 @@ Wireless Communication, Reinforcement Learning, UAV, Machine Learning Algorithms
 ---
 ## 📖 External Reviewer
 
-IEEE Internet of Things Journal  2024, 2025
-IEEE Vehicular Technology Conference 2025
+**2024, 2025** IEEE Internet of Things Journal (IOTJ)
+
+**2025**       IEEE Vehicular Technology Conference (VTC)
 
 ---
 ## 🏆 Awards
