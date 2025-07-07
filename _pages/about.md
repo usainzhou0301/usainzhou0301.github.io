@@ -92,6 +92,7 @@ Wireless Communication, Reinforcement Learning, UAV, Machine Learning Algorithms
 
 ## 🥇 Honors
 
+2023.09 Second Prize in the Beijing Round of the China “Internet+” Innovation and Entrepreneurship Competition (Municipal Level)
 2021.06 First Prize in Chinese College Student Agricultural Robot Competition (National Level)  
 2021.04 Beijing Second Prize in the Chinese College Student Artificial Intelligence Competition (Municipal Level)  
 2020.06 Third Prize in “Xingnong Cup” Innovation and Entrepreneurship Competition of CAU  
