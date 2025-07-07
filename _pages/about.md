@@ -80,7 +80,11 @@ Wireless Communication, Reinforcement Learning, UAV, Machine Learning Algorithms
 [3] "Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments", Quanxi Zhou, IEEE Transactions on Mobile Computing. (Under Review)  
 
 ---
+# External Reviewer
 
+IEEE Internet of Things Journal  2024, 2025
+IEEE Vehicular Technology Conference 2025
+---
 ## 🏆 Awards
 
 2024.10 SpringGX Award in the University of Tokyo  
