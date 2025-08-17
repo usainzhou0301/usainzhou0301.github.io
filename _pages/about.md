@@ -78,6 +78,7 @@ Wireless Communication, Reinforcement Learning, UAV, Machine Learning Algorithms
 [1] "Uncertainty-Aware Multi-Agent Reinforcement Learning for Anti-Interference Trajectory Planning of Cellular-Connected UAVs", Quanxi Zhou, IEEE Transactions on Vehicular Technology, 2025. (Minor Revision)  
 [2] "CLIFF: A Multi-Modal Remote Sensing Model for Geological Hazard Monitoring Based on Bitemporal UAV Images", Yili Ren*, Quanxi Zhou*, IEEE Transactions on Geoscience and Remote Sensing. (Under Review, Contribute Equally)  
 [3] "Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments", Quanxi Zhou, IEEE Transactions on Mobile Computing. (Under Review)  
+[4] "A Feature-Aware Elite-Imitation MARL for Multi-UAV Trajectory Optimization in Mountain Terrain Detection", Quanxi Zhou, Drones. (Under Review)
 
 ---
 ## 📖 External Reviewer
@@ -85,6 +86,8 @@ Wireless Communication, Reinforcement Learning, UAV, Machine Learning Algorithms
 **2024, 2025** IEEE Internet of Things Journal (IOTJ)
 
 **2025**       IEEE Vehicular Technology Conference (VTC)
+
+**2025**       The Pacific Rim International Conference on Artificial Intelligence (PRICAI)
 
 ---
 ## 🏆 Awards
