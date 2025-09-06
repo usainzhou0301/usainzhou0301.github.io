@@ -65,7 +65,7 @@ Wireless Communication, Reinforcement Learning, UAV, Machine Learning Algorithms
 
 ### Journal
 
-[1] "Uncertainty-Aware Multi-Agent Reinforcement Learning for Anti-Interference Trajectory Planning of Cellular-Connected UAVs", Quanxi Zhou, IEEE Transactions on Vehicular Technology, 2025. 
+[1] "Uncertainty-Aware Multi-Agent Reinforcement Learning for Anti-Interference Trajectory Planning of Cellular-Connected UAVs", Quanxi Zhou, Wwencan Mao, Jin Nakazato, Yusheng Ji and Manabu Tsukada, IEEE Transactions on Vehicular Technology, DOI: 10.1109/TVT.2025.3606201. 
 [2] "Multi-Modal Trajectory Planning for Emergency-Oriented Air-Ground Collaborative Sensing and Communication", Yaxi Liu, Quanxi Zhou, Wencan Mao, Xulong Li, Wei Huangfu, Manabu Tsukada, Yusheng Ji, Keping Long, IEEE Transactions on Cognitive Communications and Networking, DOI: 10.1109/TCCN.2025.3585254.  
 [3] "Cellular Connected UAV Anti-Interference Path Planning Based on PDS-DDPG and TOPEM", Quanxi Zhou, Yongjing Wang, Ruiyu Shen, Jin Nakazato, Manabu Tsukada, Zhenyu Guan, IEEE Journal on Miniaturization for Air and Space Systems, 2024.  
 [4] "Research and Analysis of Data Value of Online Shopping Platform", Quanxi Zhou, Computer Programming Skills and Maintenance, 2019(01): 87–89. DOI: 10.16184/j.cnki.comprg.2019.01.030.  
