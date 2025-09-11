@@ -67,15 +67,17 @@ Wireless Communication, Reinforcement Learning, UAV, Machine Learning Algorithms
 
 [1] "Uncertainty-Aware Multi-Agent Reinforcement Learning for Anti-Interference Trajectory Planning of Cellular-Connected UAVs", Quanxi Zhou, Wwencan Mao, Jin Nakazato, Yusheng Ji and Manabu Tsukada, IEEE Transactions on Vehicular Technology, DOI: 10.1109/TVT.2025.3606201.
 
-[2] "Multi-Modal Trajectory Planning for Emergency-Oriented Air-Ground Collaborative Sensing and Communication", Yaxi Liu, Quanxi Zhou, Wencan Mao, Xulong Li, Wei Huangfu, Manabu Tsukada, Yusheng Ji, Keping Long, IEEE Transactions on Cognitive Communications and Networking, DOI: 10.1109/TCCN.2025.3585254.  
+[2] "A Feature-Aware Elite-Imitation MARL for Multi-UAV Trajectory Optimization in Mountain Terrain Detection", Quanxi Zhou, Drones. 
 
-[3] "Cellular Connected UAV Anti-Interference Path Planning Based on PDS-DDPG and TOPEM", Quanxi Zhou, Yongjing Wang, Ruiyu Shen, Jin Nakazato, Manabu Tsukada, Zhenyu Guan, IEEE Journal on Miniaturization for Air and Space Systems, 2024.  
+[3] "Multi-Modal Trajectory Planning for Emergency-Oriented Air-Ground Collaborative Sensing and Communication", Yaxi Liu, Quanxi Zhou, Wencan Mao, Xulong Li, Wei Huangfu, Manabu Tsukada, Yusheng Ji, Keping Long, IEEE Transactions on Cognitive Communications and Networking, DOI: 10.1109/TCCN.2025.3585254.  
 
-[4] "Research and Analysis of Data Value of Online Shopping Platform", Quanxi Zhou, Computer Programming Skills and Maintenance, 2019(01): 87–89. DOI: 10.16184/j.cnki.comprg.2019.01.030.  
+[4] "Cellular Connected UAV Anti-Interference Path Planning Based on PDS-DDPG and TOPEM", Quanxi Zhou, Yongjing Wang, Ruiyu Shen, Jin Nakazato, Manabu Tsukada, Zhenyu Guan, IEEE Journal on Miniaturization for Air and Space Systems, 2024.  
 
-[5] "Analysis of Common Data Preprocessing Technology", Quanxi Zhou, Communications World, 2019, 26(01): 17–18.  
+[5] "Research and Analysis of Data Value of Online Shopping Platform", Quanxi Zhou, Computer Programming Skills and Maintenance, 2019(01): 87–89. DOI: 10.16184/j.cnki.comprg.2019.01.030.  
 
-[6] "Analysis of Key Technologies of Internet Information Security in the Data Era", Quanxi Zhou, Information Recording Materials, 2019, 20(01): 115–116.  
+[6] "Analysis of Common Data Preprocessing Technology", Quanxi Zhou, Communications World, 2019, 26(01): 17–18.  
+
+[7] "Analysis of Key Technologies of Internet Information Security in the Data Era", Quanxi Zhou, Information Recording Materials, 2019, 20(01): 115–116.  
 
 ### Conference Paper  
 [1] "Design of Anti-Interference Path Planning for Cellular-Connected UAVs Based on Improved DDPG", Quanxi Zhou, Yongjing Wang, 2024 10th IEEE International Conference on High Performance and Smart Computing (HPSC), pp. 71–76, IEEE, May 2024.  
@@ -88,7 +90,9 @@ Wireless Communication, Reinforcement Learning, UAV, Machine Learning Algorithms
 
 [2] "Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments", Quanxi Zhou, IEEE Transactions on Mobile Computing. (Under Review)  
 
-[3] "A Feature-Aware Elite-Imitation MARL for Multi-UAV Trajectory Optimization in Mountain Terrain Detection", Quanxi Zhou, Drones. (Major Revision)
+[3] "Trajectory Planning for UAV-Based Smart Farming Using Imitation-Based Triple Deep Q-Learning", Wencan Mao*, Quanxi Zhou*, (Conference Submission, Contribute Equally)
+
+[4] "FM-EAC: Feature Model-based Enhanced Actor-Critic for Multi-Task Control in Dynamic Environments" Quanxi Zhou, (Conference Submission)
 
 ---
 ## 📖 External Reviewer
