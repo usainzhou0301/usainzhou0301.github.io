@@ -67,7 +67,7 @@ Wireless Communication, Reinforcement Learning, UAV, Machine Learning Algorithms
 
 [1] "Uncertainty-Aware Multi-Agent Reinforcement Learning for Anti-Interference Trajectory Planning of Cellular-Connected UAVs", Quanxi Zhou, Wwencan Mao, Jin Nakazato, Yusheng Ji and Manabu Tsukada, IEEE Transactions on Vehicular Technology, DOI: 10.1109/TVT.2025.3606201.
 
-[2] "A Feature-Aware Elite-Imitation MARL for Multi-UAV Trajectory Optimization in Mountain Terrain Detection", Quanxi Zhou, Drones. 
+[2] "A Feature-Aware Elite-Imitation MARL for Multi-UAV Trajectory Optimization in Mountain Terrain Detection", Quanxi Zhou, Ye Tao, Qianxiao Su, Manabu Tsukada, Drones. (Accepted)
 
 [3] "Multi-Modal Trajectory Planning for Emergency-Oriented Air-Ground Collaborative Sensing and Communication", Yaxi Liu, Quanxi Zhou, Wencan Mao, Xulong Li, Wei Huangfu, Manabu Tsukada, Yusheng Ji, Keping Long, IEEE Transactions on Cognitive Communications and Networking, DOI: 10.1109/TCCN.2025.3585254.  
 
