@@ -92,7 +92,7 @@ Wireless Communication, Reinforcement Learning, UAV, Machine Learning Algorithms
 [7] "Analysis of Key Technologies of Internet Information Security in the Data Era", Quanxi Zhou, Information Recording Materials, 2019, 20(01): 115–116.  
 
 ### Conference Paper  
-[1] "Design of Anti-Interference Path Planning for Cellular-Connected UAVs Based on Improved DDPG", Quanxi Zhou, Yongjing Wang, 2024 10th IEEE International Conference on High Performance and Smart Computing (HPSC), pp. 71–76, IEEE, May 2024.  
+[1] "Design of Anti-Interference Path Planning for Cellular-Connected UAVs Based on Improved DDPG", Quanxi Zhou, Yongjing Wang, 2024 10th IEEE International Conference on High Performance and Smart Computing (HPSC), pp. 71–76, IEEE, May 2024, DOI: 10.1109/HPSC62738.2024.00020.  
 
 [2] "Design of Enterprise Reputation Evaluation Framework Based on Encrypted Decision Tree Algorithm", Quanxi Zhou, Ruiyu Shen, IOS Press, November 21, 2024. DOI: 10.3233/FAIA241133.  
 
@@ -102,7 +102,7 @@ Wireless Communication, Reinforcement Learning, UAV, Machine Learning Algorithms
 
 [2] "Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments", Quanxi Zhou, IEEE Transactions on Mobile Computing. (Under Review)  
 
-[3] "A paper about UAV application and new Rl method", Wencan Mao*, Quanxi Zhou*, (Conference Submission, Contribute Equally, Anonymous Double-Blind Review)
+[3] A paper about UAV application and new Rl method, Wencan Mao*, Quanxi Zhou*, (Conference Submission, Contribute Equally, Anonymous Double-Blind Review)
 
 [4] A paper about feature and RL, Quanxi Zhou, (Conference Submission, Anonymous Double-Blind Review)
 
