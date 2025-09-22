@@ -4,10 +4,22 @@ title: "Quanxi ZHOU"
 permalink: /
 ---
 
-<img src="usain.jpg" alt="Quanxi Zhou" style="float: left; margin-right: 20px; width: 120px; border-radius: 10px;" />
+<img src="usain.jpg" alt="Quanxi Zhou" 
+     style="float: left; margin-right: 20px; width: 120px; border-radius: 10px;" />
 
-Quanxi Zhou (Usain, 周泉锡) is a Ph.D. student at [Tsukada Lab](https://tlab.hongo.wide.ad.jp/ja/) of School of Information Science and Technology, The University of Tokyo. He received the B.Eng. degree from the **College of Information and Electrical Engineering**, **China Agricultural University**, Beijing, China, in 2021 in Computer Science and Technology of the Honors Program, and received the M.Eng. degree from the **School of Cyber Science and Technology**, **Beihang University**, Beijing, China, in 2024, majoring in Cyberspace Security.
+<p style="font-size: 14px; line-height: 1.6;">
+  Quanxi Zhou (Usain, 周泉锡) is a Ph.D. student at 
+  <a href="https://tlab.hongo.wide.ad.jp/ja/">Tsukada Lab</a> of 
+  School of Information Science and Technology, The University of Tokyo. 
+  He received the B.Eng. degree from the <strong>College of Information and Electrical Engineering</strong>, 
+  <strong>China Agricultural University</strong>, Beijing, China, in 2021 in Computer Science and Technology of the Honors Program, 
+  and received the M.Eng. degree from the <strong>School of Cyber Science and Technology</strong>, 
+  <strong>Beihang University</strong>, Beijing, China, in 2024, majoring in Cyberspace Security.
+</p>
+
+
 ---
+
 ## 🔬 Research Interests
 
 Wireless Communication, Reinforcement Learning, UAV, Machine Learning Algorithms, Computer Vision, Remote Sensing
@@ -90,9 +102,9 @@ Wireless Communication, Reinforcement Learning, UAV, Machine Learning Algorithms
 
 [2] "Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments", Quanxi Zhou, IEEE Transactions on Mobile Computing. (Under Review)  
 
-[3] "Trajectory Planning for UAV-Based Smart Farming Using Imitation-Based Triple Deep Q-Learning", Wencan Mao*, Quanxi Zhou*, (Conference Submission, Contribute Equally)
+[3] "A paper about UAV application and new Rl method", Wencan Mao*, Quanxi Zhou*, (Conference Submission, Contribute Equally, Anonymous Double-Blind Review)
 
-[4] "FM-EAC: Feature Model-based Enhanced Actor-Critic for Multi-Task Control in Dynamic Environments" Quanxi Zhou, (Conference Submission)
+[4] A paper about feature and RL, Quanxi Zhou, (Conference Submission, Anonymous Double-Blind Review)
 
 ---
 ## 📖 External Reviewer
