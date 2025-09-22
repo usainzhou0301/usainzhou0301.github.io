@@ -67,13 +67,13 @@ Wireless Communication, Reinforcement Learning, UAV, Machine Learning Algorithms
 
 [1] "Uncertainty-Aware Multi-Agent Reinforcement Learning for Anti-Interference Trajectory Planning of Cellular-Connected UAVs", Quanxi Zhou, Wwencan Mao, Jin Nakazato, Yusheng Ji and Manabu Tsukada, IEEE Transactions on Vehicular Technology, DOI: 10.1109/TVT.2025.3606201.
 
-[2] "A Feature-Aware Elite-Imitation MARL for Multi-UAV Trajectory Optimization in Mountain Terrain Detection", Quanxi Zhou, Ye Tao, Qianxiao Su, Manabu Tsukada, Drones. (Accepted)
+[2] "A Feature-Aware Elite-Imitation MARL for Multi-UAV Trajectory Optimization in Mountain Terrain Detection", Quanxi Zhou, Ye Tao, Qianxiao Su, Manabu Tsukada, Drones, DOI: 10.3390/drones9090645.
 
 [3] "Multi-Modal Trajectory Planning for Emergency-Oriented Air-Ground Collaborative Sensing and Communication", Yaxi Liu, Quanxi Zhou, Wencan Mao, Xulong Li, Wei Huangfu, Manabu Tsukada, Yusheng Ji, Keping Long, IEEE Transactions on Cognitive Communications and Networking, DOI: 10.1109/TCCN.2025.3585254.  
 
-[4] "Cellular Connected UAV Anti-Interference Path Planning Based on PDS-DDPG and TOPEM", Quanxi Zhou, Yongjing Wang, Ruiyu Shen, Jin Nakazato, Manabu Tsukada, Zhenyu Guan, IEEE Journal on Miniaturization for Air and Space Systems, 2024.  
+[4] "Cellular Connected UAV Anti-Interference Path Planning Based on PDS-DDPG and TOPEM", Quanxi Zhou, Yongjing Wang, Ruiyu Shen, Jin Nakazato, Manabu Tsukada, Zhenyu Guan, IEEE Journal on Miniaturization for Air and Space Systems, DOI: 10.1109/JMASS.2024.3490762.  
 
-[5] "Research and Analysis of Data Value of Online Shopping Platform", Quanxi Zhou, Computer Programming Skills and Maintenance, 2019(01): 87–89. DOI: 10.16184/j.cnki.comprg.2019.01.030.  
+[5] "Research and Analysis of Data Value of Online Shopping Platform", Quanxi Zhou, Computer Programming Skills and Maintenance, 2019(01): 87–89.
 
 [6] "Analysis of Common Data Preprocessing Technology", Quanxi Zhou, Communications World, 2019, 26(01): 17–18.  
 
