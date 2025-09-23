@@ -102,18 +102,20 @@ Wireless Communication, Reinforcement Learning, UAV, Machine Learning Algorithms
 
 [2] "Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments", Quanxi Zhou, IEEE Transactions on Mobile Computing. (Under Review)  
 
-[3] A paper about UAV application and new Rl method, Wencan Mao*, Quanxi Zhou*, (Conference Submission, Contribute Equally, Anonymous Double-Blind Review)
+[3] A paper about UAV application and new Rl method, Wencan Mao*, Quanxi Zhou*, (Conference Submission, Contribute Equally, Anonymous **Double-Blind** Review)
 
-[4] A paper about feature and RL, Quanxi Zhou, (Conference Submission, Anonymous Double-Blind Review)
+[4] A paper about feature and RL, Quanxi Zhou, (Conference Submission, Anonymous **Double-Blind** Review)
 
 ---
 ## 📖 External Reviewer
 
-**2024, 2025** IEEE Internet of Things Journal (IOTJ)
+**2024** IEEE Internet of Things Journal (IOTJ)
 
-**2025**       IEEE Vehicular Technology Conference (VTC)
+**2025** IEEE Internet of Things Journal (IOTJ)
 
-**2025**       The Pacific Rim International Conference on Artificial Intelligence (PRICAI)
+**2025** IEEE Vehicular Technology Conference (VTC)
+
+**2025** The Pacific Rim International Conference on Artificial Intelligence (PRICAI)
 
 ---
 ## 🏆 Awards
@@ -166,4 +168,5 @@ Wireless Communication, Reinforcement Learning, UAV, Machine Learning Algorithms
 ## 📬 Contact With Me
 
 📧 [usainzhou@g.ecc.u-tokyo.ac.jp](mailto:usainzhou@g.ecc.u-tokyo.ac.jp)  
+
 🔗 [Google Scholar](https://scholar.google.com/citations?hl=en&user=P2mHCpgAAAAJ)  
