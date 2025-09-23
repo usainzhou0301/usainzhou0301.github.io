@@ -118,27 +118,47 @@ Wireless Communication, Reinforcement Learning, UAV, Machine Learning Algorithms
 ---
 ## 🏆 Awards
 
-2024.10 SpringGX Award in the University of Tokyo  
+2024.10 SpringGX Award in the University of Tokyo
+  
 2022.09 Learning Excellence Scholarship of Beihang University  
-2018.09 & 2019.09 Learning Excellence Scholarship of CAU for 2017-2018 Academic Year & 2018-2019 Academic Year  
-2019.09 & 2020.09 Social Work Scholarship of CAU for 2018-2019 Academic Year & 2019-2020 Academic Year  
+
+2020.09 Social Work Scholarship of CAU
+
+2019.09 Learning Excellence Scholarship of CAU
+
+2019.09 Social Work Scholarship of CAU 
+
+2018.09 Learning Excellence Scholarship of CAU
+
 
 ---
 
 ## 🥇 Honors
 
 2023.09 Second Prize in the Beijing Round of the China “Internet+” Innovation and Entrepreneurship Competition (**Municipal Level**)  
+
 2021.06 First Prize in Chinese College Student Agricultural Robot Competition (**National Level**)  
+
 2021.04 Beijing Second Prize in the Chinese College Student Artificial Intelligence Competition (**Municipal Level**)  
+
 2020.06 Third Prize in “Xingnong Cup” Innovation and Entrepreneurship Competition of CAU  
+
 2020.06 Bronze Medal in the Innovation and Entrepreneurship Competition of CAU  
+
 2020.06 Bronze Medal in the Internet of CAU  
+
 2020.04 First Prize in Advanced Mathematics Competition of CAU  
+
 2019.11 Second Prize in Mathematical Modeling and Computer Application Competition (**Municipal Level**)  
+
 2019.04 Second Prize in Advanced Mathematics Competition of CAU  
+
 2018.10 Third Prize in Chinese College Students’ Advanced Mathematics Competition (**National Level**)  
+
 2018.10 Second Prize in Beijing College Students’ Advanced Mathematics Competition (**Municipal Level**)  
+
 2018.06 Third Prize in “Minsheng Cup” Modeling Competition of CAU  
+
 2018.06 Excellent Award in the Physics Experiment Competition of CAU
 
 ---
