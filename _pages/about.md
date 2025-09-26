@@ -234,8 +234,8 @@ permalink: /
 
 <div style="font-size:10pt;">
 
-📧 [usainzhou@g.ecc.u-tokyo.ac.jp](mailto:usainzhou@g.ecc.u-tokyo.ac.jp)  
+- 📧 [usainzhou@g.ecc.u-tokyo.ac.jp](mailto:usainzhou@g.ecc.u-tokyo.ac.jp)  
 
-🔗 [Google Scholar](https://scholar.google.com/citations?hl=en&user=P2mHCpgAAAAJ)  
+- 🔗 [Google Scholar](https://scholar.google.com/citations?hl=en&user=P2mHCpgAAAAJ)  
 
 </div>
