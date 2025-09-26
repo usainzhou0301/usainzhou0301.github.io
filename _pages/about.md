@@ -23,19 +23,8 @@ permalink: /
 ## 🔬 Research Interests
 
 <div style="font-size:10pt;">
-  <ul>
-    <li>Wireless Communication</li>
-    <li>Reinforcement Learning</li>
-    <li>UAV Trajectory Optimization</li>
-    <li>UAV Resource Allocation</li>
-    <li>Machine Learning</li>
-    <li>Computer Vision</li>
-    <li>Remote Sensing</li>
-    <li>Homomorphic Encryption</li>
-  </ul>
+Wireless Communication, Reinforcement Learning, UAV Trajectory Optimization, UAV Resource Allocation, Machine Learning, Computer Vision, Remote Sensing, Homomorphic Encryption
 </div>
-
-
 
 ---
 
