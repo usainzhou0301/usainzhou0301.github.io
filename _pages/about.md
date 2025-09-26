@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <img src="usain.jpg" alt="Quanxi Zhou" 
-     style="float: left; margin-right: 20px; width: 50px; border-radius: 10px;" />
+     style="float: left; margin-right: 20px; width: 100px; border-radius: 10px;" />
 
 <p style="font-size: 14px; line-height: 1.6;">
   Quanxi Zhou (Usain, 周泉锡) is a Ph.D. student at 
