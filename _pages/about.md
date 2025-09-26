@@ -5,12 +5,12 @@ permalink: /
 ---
 
 <img src="usain.jpg" alt="Quanxi Zhou" 
-     style="float: left; margin-right: 20px; width: 80px; border-radius: 10px;" />
+     style="float: left; margin-right: 20px; width: 50px; border-radius: 10px;" />
 
 <p style="font-size: 14px; line-height: 1.6;">
   Quanxi Zhou (Usain, 周泉锡) is a Ph.D. student at 
   <a href="https://tlab.hongo.wide.ad.jp/ja/">Tsukada Lab</a> of 
-  School of Information Science and Technology, The University of Tokyo. 
+  School of Information Science and Technology, The University of Tokyo.
   He received the B.Eng. degree from the <strong>College of Information and Electrical Engineering</strong>, 
   <strong>China Agricultural University</strong>, Beijing, China, in 2021 in Computer Science and Technology of the Honors Program, 
   and received the M.Eng. degree from the <strong>School of Cyber Science and Technology</strong>, 
@@ -19,12 +19,23 @@ permalink: /
 
 
 ---
+---
 
 ## 🔬 Research Interests
 
 <div style="font-size:10pt;">
-Wireless Communication, Reinforcement Learning, UAV Trajectory Optimization, UAV Resource Allocation, Machine Learning, Computer Vision, Remote Sensing, Homomorphic Encryption
+  <ul>
+    <li>Wireless Communication</li>
+    <li>Reinforcement Learning</li>
+    <li>UAV Trajectory Optimization</li>
+    <li>UAV Resource Allocation</li>
+    <li>Machine Learning</li>
+    <li>Computer Vision</li>
+    <li>Remote Sensing</li>
+    <li>Homomorphic Encryption</li>
+  </ul>
 </div>
+
 
 ---
 
