@@ -23,17 +23,18 @@ permalink: /
 ## 🔬 Research Interests
 
 <div style="font-size:10pt;">
-
-- Wireless Communication
-- Reinforcement Learning
-- UAV Trajectory Optimization
-- UAV Resource Allocation
-- Machine Learning 
-- Computer Vision
-- Remote Sensing
-- Homomorphic Encryption
-
+  <ul>
+    <li>Wireless Communication</li>
+    <li>Reinforcement Learning</li>
+    <li>UAV Trajectory Optimization</li>
+    <li>UAV Resource Allocation</li>
+    <li>Machine Learning</li>
+    <li>Computer Vision</li>
+    <li>Remote Sensing</li>
+    <li>Homomorphic Encryption</li>
+  </ul>
 </div>
+
 
 
 ---
@@ -41,12 +42,12 @@ permalink: /
 ## 🎓 Educational Experience
 
 <div style="font-size:10pt;">
-
-- **2024.10–present**: Ph.D. Student, University of Tokyo  
-- **2024.04–2024.10**: Research Student, University of Tokyo  
-- **2021.09–2024.01**: M.Eng., Beihang University  
-- **2017.09–2021.07**: B.Eng., China Agricultural University  
-
+  <ul>
+    <li><b>2024.10–present</b>: Ph.D. Student, University of Tokyo</li>
+    <li><b>2024.04–2024.10</b>: Research Student, University of Tokyo</li>
+    <li><b>2021.09–2024.01</b>: M.Eng., Beihang University</li>
+    <li><b>2017.09–2021.07</b>: B.Eng., China Agricultural University</li>
+  </ul>
 </div>
 
 
@@ -55,12 +56,13 @@ permalink: /
 ## 👩‍🏫 Teaching Assistant Experience
 
 <div style="font-size:10pt;">
-
-- **2023.03–2023.07**: Research Seminar, Beihang University  
-- **2022.03–2022.07**: Computer Network Experiment, Beihang University  
-- **2020.09–2021.07**: Undergraduate Research Program, China Agricultural University  
-
+  <ul>
+    <li><b>2023.03–2023.07</b>: Research Seminar, Beihang University</li>
+    <li><b>2022.03–2022.07</b>: Computer Network Experiment, Beihang University</li>
+    <li><b>2020.09–2021.07</b>: Undergraduate Research Program, China Agricultural University</li>
+  </ul>
 </div>
+
 
 ---
 
