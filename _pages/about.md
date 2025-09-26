@@ -171,8 +171,8 @@ Wireless Communication, Reinforcement Learning, UAV Trajectory Optimization, UAV
 
 <div style="font-size:10pt;">
   <ul>
-    <li>2024.10 SpringGX Award in the University of Tokyo</li>
-    <li>2022.09 Learning Excellence Scholarship of Beihang University</li>
+    <li>2024.10 SpringGX Award of Utokyo</li>
+    <li>2022.09 Learning Excellence Scholarship of BUAA</li>
     <li>2020.09 Social Work Scholarship of CAU</li>
     <li>2019.09 Learning Excellence Scholarship of CAU</li>
     <li>2019.09 Social Work Scholarship of CAU</li>
