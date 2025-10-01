@@ -120,7 +120,7 @@ permalink: /
 
 <div style="font-size:10pt;">
   <ul>
-    <li>"Uncertainty-Aware Multi-Agent Reinforcement Learning for Anti-Interference Trajectory Planning of Cellular-Connected UAVs", Quanxi Zhou, Wwencan Mao, Jin Nakazato, Yusheng Ji and Manabu Tsukada, <i>IEEE Transactions on Vehicular Technology</i>, DOI: 10.1109/TVT.2025.3606201.</li>
+    <li>"Uncertainty-Aware Multi-Agent Reinforcement Learning for Anti-Interference Trajectory Planning of Cellular-Connected UAVs", Quanxi Zhou, Wencan Mao, Jin Nakazato, Yusheng Ji and Manabu Tsukada, <i>IEEE Transactions on Vehicular Technology</i>, DOI: 10.1109/TVT.2025.3606201.</li>
 
     <li>"A Feature-Aware Elite-Imitation MARL for Multi-UAV Trajectory Optimization in Mountain Terrain Detection", Quanxi Zhou, Ye Tao, Qianxiao Su, Manabu Tsukada, <i>Drones</i>, DOI: 10.3390/drones9090645.</li>
 
