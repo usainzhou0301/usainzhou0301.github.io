@@ -220,15 +220,15 @@ permalink: /
   </ul>
 
   <!-- 🎓 University Level Awards -->
-  <h4><b>University Level Awards (CAU)</b></h4>
+  <h4><b>University Level Awards</b></h4>
   <ul>
     <li>2020.06 — Third Prize, “Xingnong Cup” Innovation and Entrepreneurship Competition</li>
     <li>2020.06 — Bronze Medal, Innovation and Entrepreneurship Competition of CAU</li>
     <li>2020.06 — Bronze Medal, Internet of CAU Competition</li>
-    <li>2020.04 — First Prize, Advanced Mathematics Competition of CAU</li>
-    <li>2019.04 — Second Prize, Advanced Mathematics Competition of CAU</li>
-    <li>2018.06 — Third Prize, “Minsheng Cup” Modeling Competition of CAU</li>
-    <li>2018.06 — Excellent Award, Physics Experiment Competition of CAU</li>
+    <li>2020.04 — First Prize, Advanced Mathematics Competition</li>
+    <li>2019.04 — Second Prize, Advanced Mathematics Competition</li>
+    <li>2018.06 — Third Prize, “Minsheng Cup” Modeling Competition</li>
+    <li>2018.06 — Excellent Award, Physics Experiment Competition</li>
   </ul>
 
 </div>
