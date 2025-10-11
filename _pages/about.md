@@ -183,11 +183,17 @@ permalink: /
 <div style="font-size:10pt;">
   <ul>
     <li>2024.10 SpringGX Award of Utokyo</li>
+	<li>2024.01 Outstanding Graduate of BUAA</li>
+	<li>2024.01 Outstanding Student Leader of BUAA</li>
     <li>2022.09 Learning Excellence Scholarship of BUAA</li>
+	<li>2021.03 Outstanding Graduation Internship of CAU</li>
+	<li>2020.03 Outstanding Student Leader of CAU</li>
     <li>2020.09 Social Work Scholarship of CAU</li>
+	<li>2019.11 Graduation from Elite Cadre Training Program </li>
     <li>2019.09 Learning Excellence Scholarship of CAU</li>
     <li>2019.09 Social Work Scholarship of CAU</li>
     <li>2018.09 Learning Excellence Scholarship of CAU</li>
+	<li>2017.12 Outstanding Student Officer of CAU</li>
   </ul>
 </div>
 
@@ -196,22 +202,37 @@ permalink: /
 ## 🥇 Honors
 
 <div style="font-size:10pt;">
+
+  <!-- 🏆 National Level Awards -->
+  <h4><b>National Level Awards</b></h4>
   <ul>
-    <li>2023.09 Second Prize in the Beijing Round of the China “Internet+” Innovation and Entrepreneurship Competition (<b>Municipal Level</b>)</li>
-    <li>2021.06 First Prize in Chinese College Student Agricultural Robot Competition (<b>National Level</b>)</li>
-    <li>2021.04 Beijing Second Prize in the Chinese College Student Artificial Intelligence Competition (<b>Municipal Level</b>)</li>
-    <li>2020.06 Third Prize in “Xingnong Cup” Innovation and Entrepreneurship Competition of CAU</li>
-    <li>2020.06 Bronze Medal in the Innovation and Entrepreneurship Competition of CAU</li>
-    <li>2020.06 Bronze Medal in the Internet of CAU</li>
-    <li>2020.04 First Prize in Advanced Mathematics Competition of CAU</li>
-    <li>2019.11 Second Prize in Mathematical Modeling and Computer Application Competition (<b>Municipal Level</b>)</li>
-    <li>2019.04 Second Prize in Advanced Mathematics Competition of CAU</li>
-    <li>2018.10 Third Prize in Chinese College Students’ Advanced Mathematics Competition (<b>National Level</b>)</li>
-    <li>2018.10 Second Prize in Beijing College Students’ Advanced Mathematics Competition (<b>Municipal Level</b>)</li>
-    <li>2018.06 Third Prize in “Minsheng Cup” Modeling Competition of CAU</li>
-    <li>2018.06 Excellent Award in the Physics Experiment Competition of CAU</li>
+    <li>2021.06 — First Prize, Chinese College Student Agricultural Robot Competition</li>
+    <li>2018.10 — Third Prize, Chinese College Students’ Advanced Mathematics Competition</li>
   </ul>
+
+  <!-- 🌆 Municipal / Provincial Level Awards -->
+  <h4><b>Municipal / Provincial Level Awards</b></h4>
+  <ul>
+    <li>2023.09 — Second Prize, Beijing Round of the China “Internet+” Innovation and Entrepreneurship Competition</li>
+    <li>2021.04 — Second Prize, Beijing Round of the Chinese College Student Artificial Intelligence Competition</li>
+    <li>2019.11 — Second Prize, Mathematical Modeling and Computer Application Competition</li>
+    <li>2018.10 — Second Prize, Beijing College Students’ Advanced Mathematics Competition</li>
+  </ul>
+
+  <!-- 🎓 University Level Awards -->
+  <h4><b>University Level Awards (CAU)</b></h4>
+  <ul>
+    <li>2020.06 — Third Prize, “Xingnong Cup” Innovation and Entrepreneurship Competition</li>
+    <li>2020.06 — Bronze Medal, Innovation and Entrepreneurship Competition of CAU</li>
+    <li>2020.06 — Bronze Medal, Internet of CAU Competition</li>
+    <li>2020.04 — First Prize, Advanced Mathematics Competition of CAU</li>
+    <li>2019.04 — Second Prize, Advanced Mathematics Competition of CAU</li>
+    <li>2018.06 — Third Prize, “Minsheng Cup” Modeling Competition of CAU</li>
+    <li>2018.06 — Excellent Award, Physics Experiment Competition of CAU</li>
+  </ul>
+
 </div>
+
 
 ---
 
