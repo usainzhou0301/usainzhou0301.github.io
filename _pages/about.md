@@ -204,14 +204,14 @@ permalink: /
 <div style="font-size:10pt;">
 
   <!-- 🏆 National Level Awards -->
-  <h4><b>National Level Awards</b></h4>
+  <h16><b>National Level Awards</b></h4>
   <ul>
     <li>2021.06 — First Prize, Chinese College Student Agricultural Robot Competition</li>
     <li>2018.10 — Third Prize, Chinese College Students’ Advanced Mathematics Competition</li>
   </ul>
 
   <!-- 🌆 Municipal / Provincial Level Awards -->
-  <h4><b>Municipal / Provincial Level Awards</b></h4>
+  <h16><b>Municipal / Provincial Level Awards</b></h4>
   <ul>
     <li>2023.09 — Second Prize, Beijing Round of the China “Internet+” Innovation and Entrepreneurship Competition</li>
     <li>2021.04 — Second Prize, Beijing Round of the Chinese College Student Artificial Intelligence Competition</li>
@@ -220,7 +220,7 @@ permalink: /
   </ul>
 
   <!-- 🎓 University Level Awards -->
-  <h4><b>University Level Awards</b></h4>
+  <h16><b>University Level Awards</b></h4>
   <ul>
     <li>2020.06 — Third Prize, “Xingnong Cup” Innovation and Entrepreneurship Competition</li>
     <li>2020.06 — Bronze Medal, Innovation and Entrepreneurship Competition of CAU</li>
