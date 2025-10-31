@@ -153,13 +153,15 @@ permalink: /
   <ul>
     <li>"CLIFF: A Multi-Modal Remote Sensing Model for Geological Hazard Monitoring Based on Bitemporal UAV Images", Yili Ren*, Quanxi Zhou*, <i>IEEE Transactions on Geoscience and Remote Sensing</i>. (Under Review, Contribute Equally)</li>
 
+<li>"ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization", Wencan Mao, Quanxi Zhou, <i>IEEE Communication Magazine</i>. (Under Review)</li>
+
     <li>"Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments", Quanxi Zhou, <i>IEEE Transactions on Mobile Computing</i>. (Under Review)</li>
 
     <li>A paper about UAV application and new RL method, Wencan Mao*, Quanxi Zhou*, (Conference Submission, Contribute Equally, Anonymous <b>Double-Blind</b> Review)</li>
 
     <li>A paper about feature and RL, Quanxi Zhou, (Conference Submission, Anonymous <b>Double-Blind</b> Review)</li>
 
-    <li>"Feature-Driven Multi-Agent Reinforcement Learning for Smart Agriculture UAV Path Planning", Quanxi Zhou (Under Writing)</li>
+    <li>"Terrain-Aware UAV-Based Agriculture Monitoring Using Feature-Driven Reinforcement Learning", Quanxi Zhou (Under Writing)</li>
 
     <li>"EIA-SEC: Elite Imitation Actor and Shared Ensemble Critic Reinforcement Learning for Trajectory Planning in UAV-Assisted Smart Agricultural System", Quanxi Zhou (Under Writing)</li>
   </ul>
