@@ -151,19 +151,19 @@ permalink: /
 
 <div style="font-size:10pt;">
   <ul>
-    <li>"CLIFF: A Multi-Modal Remote Sensing Model for Geological Hazard Monitoring Based on Bitemporal UAV Images", Yili Ren*, Quanxi Zhou*, <i>IEEE Transactions on Geoscience and Remote Sensing</i>. (Under Review, Contribute Equally)</li>
+    <li>"CLIFF: A Multi-Modal Remote Sensing Model for Geological Hazard Monitoring Based on Bitemporal UAV Images", Yili Ren*, Quanxi Zhou*, Wencan Mao, Xinran Wei, Qianxiao Su, Jianzhong Bi, Yusheng Ji, and Manabu Tsukada <i>IEEE Transactions on Geoscience and Remote Sensing</i>. (Under Review, Contribute Equally)</li>
 
-<li>"ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization", Wencan Mao, Quanxi Zhou, <i>IEEE Communication Magazine</i>. (Under Review)</li>
+<li>"ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization", Wencan Mao, Quanxi Zhou, Yilei Liang, Yaxi Liu, Wei Huangfu, Manabu Tsukada, Jon Crowcroft, and Yusheng Ji <i>IEEE Communication Magazine</i>. (Under Review)</li>
 
-    <li>"Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments", Quanxi Zhou, <i>IEEE Transactions on Mobile Computing</i>. (Under Review)</li>
+    <li>"Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments", Quanxi Zhou, Wencan Mao, Yilei Liang, Yixuan Liu, Manabu Tsukada, and Jon Crowcroft <i>IEEE Transactions on Mobile Computing</i>. (Under Review)</li>
 
-    <li>A paper about UAV application and new RL method, Wencan Mao*, Quanxi Zhou*, (Conference Submission, Contribute Equally, Anonymous <b>Double-Blind</b> Review)</li>
+    <li>A paper about UAV application and new RL method, Wencan Mao*, Quanxi Zhou*, Tomás Couso Coddou, Yilei Liang, Yunling Liu, Manabu Tsukada, Jon Crowcroft, and Yusheng Ji (Conference Submission, Contribute Equally, Anonymous <b>Double-Blind</b> Review)</li>
 
-    <li>A paper about feature and RL, Quanxi Zhou, (Conference Submission, Anonymous <b>Double-Blind</b> Review)</li>
+    <li>A paper about feature and RL, Quanxi Zhou, Wencan Mao, Manabu Tsukada, Zicheng Lui, and Yusheng Ji (Conference Submission, Anonymous <b>Double-Blind</b> Review)</li>
 
-    <li>"Terrain-Aware UAV-Based Agriculture Monitoring Using Feature-Driven Reinforcement Learning", Quanxi Zhou (Under Writing)</li>
+    <li>"Terrain-Aware UAV-Based Agriculture Monitoring Using Feature-Driven Reinforcement Learning", Quanxi Zhou, Wencan Mao, Cho Byungjin, Ye Tao, and Tsukada Manabu (Under Writing)</li>
 
-    <li>"EIA-SEC: Elite Imitation Actor and Shared Ensemble Critic Reinforcement Learning for Trajectory Planning in UAV-Assisted Smart Agricultural System", Quanxi Zhou (Under Writing)</li>
+    <li>"EIA-SEC: Elite Imitation Actor and Shared Ensemble Critic Reinforcement Learning for Trajectory Planning in UAV-Assisted Smart Agricultural System", Quanxi Zhou, Wencan Mao, Ye Tao, Yuchen Yang, Manabu Tsukada, and Yunling Liu (Under Writing)</li>
   </ul>
 </div>
 
