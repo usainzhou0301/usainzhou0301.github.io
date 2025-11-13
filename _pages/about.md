@@ -155,7 +155,7 @@ permalink: /
 
 <li>"ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization", Wencan Mao, Quanxi Zhou, Yilei Liang, Yaxi Liu, Wei Huangfu, Manabu Tsukada, Jon Crowcroft, and Yusheng Ji <i>IEEE Communication Magazine</i>. (Under Review)</li>
 
-    <li>"Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments", Quanxi Zhou, Wencan Mao, Yilei Liang, Yixuan Liu, Manabu Tsukada, and Jon Crowcroft <i>IEEE Transactions on Mobile Computing</i>. (Under Review)</li>
+    <li>"Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments", Quanxi Zhou, Wencan Mao, Yilei Liang, Yixuan Liu, Manabu Tsukada, and Jon Crowcroft <i>IEEE Transactions on Intelligent </i>. (Under Review)</li>
 
     <li>A paper about UAV application and new RL method, Wencan Mao*, Quanxi Zhou*, Tomás Couso Coddou, Yilei Liang, Yunling Liu, Manabu Tsukada, Jon Crowcroft, and Yusheng Ji (Conference Submission, Contribute Equally, Anonymous <b>Double-Blind</b> Review)</li>
 
