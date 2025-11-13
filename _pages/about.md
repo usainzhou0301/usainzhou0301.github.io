@@ -161,9 +161,9 @@ permalink: /
 
     <li>A paper about feature and RL, Quanxi Zhou, Wencan Mao, Manabu Tsukada, Zicheng Lui, and Yusheng Ji (Conference Submission, Anonymous <b>Double-Blind</b> Review)</li>
 
-    <li>"Terrain-Aware UAV-Based Agriculture Monitoring Using Feature-Driven Reinforcement Learning", Quanxi Zhou, Wencan Mao, Cho Byungjin, Ye Tao, and Tsukada Manabu (Under Writing)</li>
+    <li>"Terrain-Aware UAV-Based Agriculture Monitoring Using Feature-Driven Reinforcement Learning", Quanxi Zhou, Wencan Mao, Cho Byungjin, Ye Tao, Yuchen Yang, and Tsukada Manabu (Under Writing, IEEE TVT)</li>
 
-    <li>"EIA-SEC: Elite Imitation Actor and Shared Ensemble Critic Reinforcement Learning for Trajectory Planning in UAV-Assisted Smart Agricultural System", Quanxi Zhou, Wencan Mao, Ye Tao, Yuchen Yang, Manabu Tsukada, and Yunling Liu (Under Writing)</li>
+    <li>"EIA-SEC: Elite Imitation Actor and Shared Ensemble Critic Reinforcement Learning for Trajectory Planning in UAV-Assisted Smart Agricultural System", Quanxi Zhou, Wencan Mao, Yilei Liang, Manabu Tsukada, Jon Crowcraft, and Yunling Liu (Under Writing, Conference Submission)</li>
   </ul>
 </div>
 
