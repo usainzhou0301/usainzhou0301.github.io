@@ -129,6 +129,10 @@ permalink: /
     <li>"Multi-Modal Trajectory Planning for Emergency-Oriented Air-Ground Collaborative Sensing and Communication", Yaxi Liu, Quanxi Zhou, Wencan Mao, Xulong Li, Wei Huangfu, Manabu Tsukada, Yusheng Ji, Keping Long, <i>IEEE Transactions on Cognitive Communications and Networking</i>, DOI: 10.1109/TCCN.2025.3585254.</li>
 
     <li>"Cellular Connected UAV Anti-Interference Path Planning Based on PDS-DDPG and TOPEM", Quanxi Zhou, Yongjing Wang, Ruiyu Shen, Jin Nakazato, Manabu Tsukada, Zhenyu Guan, <i>IEEE Journal on Miniaturization for Air and Space Systems</i>, DOI: 10.1109/JMASS.2024.3490762.</li>
+ <li>"Research and Analysis of Data Value of Online Shopping Platform", Quanxi Zhou, Computer Programming Skills and Maintenance, 2019(01): 87–89.</li>
+
+ <li>"Analysis of Common Data Preprocessing Technology", Quanxi Zhou, Communications World, 2019, 26(01): 17–18.</li>
+ <li>"Analysis of Key Technologies of Internet Information Security in the Data Era", Quanxi Zhou, Information Recording Materials, 2019, 20(01): 115–116.</li>
 
   </ul>
 </div>
