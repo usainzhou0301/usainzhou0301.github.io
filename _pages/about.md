@@ -9,8 +9,7 @@ permalink: /
 
 <p style="font-size: 14px; line-height: 1.6;">
   Quanxi Zhou (Usain, 周泉锡) is a Ph.D. student at 
-  <a href="https://tlab.hongo.wide.ad.jp/ja/">Tsukada Lab</a> of 
-  School of Information Science and Technology, <strong>The University of Tokyo</strong>.
+  <a href="https://tlab.hongo.wide.ad.jp/ja/">Tsukada Lab</a> of <strong>School of Information Science and Technology, The University of Tokyo</strong>.
   He received the B.Eng. degree from the <strong>College of Information and Electrical Engineering</strong>, 
   <strong>China Agricultural University</strong>, Beijing, China, in 2021 in Computer Science and Technology of the Honors Program, 
   and received the M.Eng. degree from the <strong>School of Cyber Science and Technology</strong>, 
