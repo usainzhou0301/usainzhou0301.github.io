@@ -10,7 +10,7 @@ permalink: /
 <p style="font-size: 14px; line-height: 1.6;">
   Quanxi Zhou (Usain, 周泉锡) is a Ph.D. student at 
   <a href="https://tlab.hongo.wide.ad.jp/ja/">Tsukada Lab</a> of 
-  School of Information Science and Technology, The University of Tokyo.
+  School of Information Science and Technology, <strong>The University of Tokyo</strong>.
   He received the B.Eng. degree from the <strong>College of Information and Electrical Engineering</strong>, 
   <strong>China Agricultural University</strong>, Beijing, China, in 2021 in Computer Science and Technology of the Honors Program, 
   and received the M.Eng. degree from the <strong>School of Cyber Science and Technology</strong>, 
@@ -33,6 +33,8 @@ permalink: /
     <li>Computer Vision</li>
     <li>Remote Sensing</li>
     <li>Homomorphic Encryption</li>
+	<li>Privacy-Preserving Computation</li>
+	<li>Secure Multi-Party Computation</li>
   </ul>
 </div>
 
@@ -128,11 +130,6 @@ permalink: /
 
     <li>"Cellular Connected UAV Anti-Interference Path Planning Based on PDS-DDPG and TOPEM", Quanxi Zhou, Yongjing Wang, Ruiyu Shen, Jin Nakazato, Manabu Tsukada, Zhenyu Guan, <i>IEEE Journal on Miniaturization for Air and Space Systems</i>, DOI: 10.1109/JMASS.2024.3490762.</li>
 
-    <li>"Research and Analysis of Data Value of Online Shopping Platform", Quanxi Zhou, <i>Computer Programming Skills and Maintenance</i>, 2019(01): 87–89.</li>
-
-    <li>"Analysis of Common Data Preprocessing Technology", Quanxi Zhou, <i>Communications World</i>, 2019, 26(01): 17–18.</li>
-
-    <li>"Analysis of Key Technologies of Internet Information Security in the Data Era", Quanxi Zhou, <i>Information Recording Materials</i>, 2019, 20(01): 115–116.</li>
   </ul>
 </div>
 
