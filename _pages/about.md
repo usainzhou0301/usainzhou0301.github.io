@@ -176,6 +176,7 @@ permalink: /
     <li><b>2025</b> IEEE Internet of Things Journal (IOTJ)</li>
     <li><b>2025</b> IEEE Vehicular Technology Conference (VTC)</li>
     <li><b>2025</b> The Pacific Rim International Conference on Artificial Intelligence (PRICAI)</li>
+<li><b>2025</b> IEEE International Conference on Communications (ICC)</li>
   </ul>
 </div>
 
