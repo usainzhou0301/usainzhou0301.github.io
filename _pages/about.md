@@ -151,7 +151,7 @@ permalink: /
 <div style="font-size:10pt;">
   <ul>
     <li>"EIA-SEC: Improved Actor-Critic Framework for Multi-UAV Collaborative Control in Smart Agriculture", Quanxi Zhou, Wencan Mao,  Yilei Liang, Manabu Tsukada, Yunling Liu4, Jon Crowcroft.</li>
-    <li>"FM-EAC: Feature Model-based Enhanced Actor-Critic for Multi-Task Control in Dynamic Environments", Quanxi Zhou, Wencan Mao, Manabu Tsukada, John C.S. Lui, and Yusheng Ji. (Contribute Equally)</li>
+    <li>"FM-EAC: Feature Model-based Enhanced Actor-Critic for Multi-Task Control in Dynamic Environments", Quanxi Zhou, Wencan Mao, Manabu Tsukada, John C.S. Lui, and Yusheng Ji.</li>
     <li>"Trajectory Planning for UAV-Based Smart Farming Using Imitation-Based Triple Deep Q-Learning", Wencan Mao, Quanxi Zhou, Tomás Couso Coddou, Manabu Tsukada, Yunling Liu, Yusheng Ji. (Contribute Equally)</li>
   </ul>
 </div>
