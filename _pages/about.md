@@ -146,7 +146,7 @@ permalink: /
   </ul>
 </div>
 
-### ArXiv Works
+### Works on arXiv
 
 <div style="font-size:10pt;">
   <ul>
