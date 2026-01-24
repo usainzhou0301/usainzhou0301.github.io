@@ -162,21 +162,23 @@ permalink: /
   <ul>
     <li>"CLIFF: A Multi-Modal Remote Sensing Model for Geological Hazard Monitoring Based on Bitemporal UAV Images", Yili Ren*, Quanxi Zhou*, Wencan Mao, Xinran Wei, Qianxiao Su, Jianzhong Bi, Yusheng Ji, and Manabu Tsukada <i>IEEE Transactions on Geoscience and Remote Sensing</i>. (Under Review, Contribute Equally)</li>
 
-<li>"ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization", Wencan Mao, Quanxi Zhou, Yilei Liang, Yaxi Liu, Wei Huangfu, Manabu Tsukada, Jon Crowcroft, and Yusheng Ji <i>IEEE Communication Magazine</i>. (Under Review)</li>
+<li>"ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization", Wencan Mao, Quanxi Zhou, Yilei Liang, Yaxi Liu, Wei Huangfu, Manabu Tsukada, Jon Crowcroft, and Yusheng Ji <i>IEEE Network Magazine</i>. (Under Review)</li>
 
-    <li>"Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments", Quanxi Zhou, Wencan Mao, Yilei Liang, Yixuan Liu, Manabu Tsukada, and Jon Crowcroft <i>IEEE TMC</i>. (Under Review)</li>
+    <li>"Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments", Quanxi Zhou, Wencan Mao, Yilei Liang, Yixuan Liu, Manabu Tsukada, and Jon Crowcroft <i>IEEE Transactions on Mobile Computing</i>. (Under Review)</li>
 
     <li>A paper about UAV application and new RL method, Wencan Mao*, Quanxi Zhou*, Tomás Couso Coddou, Yilei Liang, Yunling Liu, Manabu Tsukada, Jon Crowcroft, and Yusheng Ji (Conference Submission, Contribute Equally, Anonymous <b>Double-Blind</b> Review)</li>
 
     <li>A paper about feature and RL, Quanxi Zhou, Wencan Mao, Manabu Tsukada, John C.S. Lui, and Yusheng Ji (Conference Submission, Anonymous <b>Double-Blind</b> Review)</li>
 
-    <li>"Terrain-Aware UAV-Based Agriculture Monitoring Using Feature-Driven Reinforcement Learning", Quanxi Zhou, Wencan Mao, Cho Byungjin, Ye Tao, Yuchen Yang, and Tsukada Manabu (Under Review, Computers and Electronics in Agriculture)</li>
+    <li>"Terrain-Aware UAV-Based Agriculture Monitoring Using Feature-Driven Reinforcement Learning", Quanxi Zhou, Wencan Mao, Cho Byungjin, Ye Tao, Yuchen Yang, and Tsukada Manabu (Under Review, IEEE Internet of Things Journal)</li>
 
-    <li>"EIA-SEC: Elite Imitation Actor and Shared Ensemble Critic Reinforcement Learning for Trajectory Planning in UAV-Assisted Smart Agricultural System", Quanxi Zhou, Wencan Mao, Yilei Liang, Manabu Tsukada, Jon Crowcraft, and Yunling Liu (Under Writing, Conference Submission)</li>
+    <li>"EIA-SEC: Elite Imitation Actor and Shared Ensemble Critic Reinforcement Learning for Trajectory Planning in UAV-Assisted Smart Agricultural System", Quanxi Zhou, Wencan Mao, Yilei Liang, Manabu Tsukada, Jon Crowcraft, and Yunling Liu (Under Review, Conference Submission)</li>
 
-    <li>"Deep Reinforcement Learning for Automated Guided Vehicle Trajectory Planning in Industry 4.0", Quanxi Zhou, Wencan Mao, Yu Xiao, Manabu Tsukada, Yusheng Ji(Soon Submission, Infocom Workshop)</li>
+    <li>"Deep Reinforcement Learning for Automated Guided Vehicle Trajectory Planning in Industry 4.0", Quanxi Zhou, Wencan Mao, Yu Xiao, Manabu Tsukada, Yusheng Ji(Under Review, Infocom Workshop)</li>
 
     <li>"Joint Capacity Planning and Resource Allocation for UAV-Assisted Vehicular Fog Computing Using Deep Reinforcement Learning", Quanxi Zhou, Wencan Mao, Yu Xiao, Manabu Tsukada, (Under Review, IEEE ICFEC)</li>
+
+    <li>" Automated Guided Vehicle-Enabled Industry 4.0: A Deep Reinforcement Learning Approach", Quanxi Zhou, Wencan Mao, Manabu Tsukada, Yusheng Ji (Under Writing, IEEE Transactions on Industrial Informatics)</li>
 
   </ul>
 </div>
