@@ -141,6 +141,9 @@ permalink: /
 
 <div style="font-size:10pt;">
   <ul>
+
+ 	<li>"Trajectory Planning for UAV-Based Smart Farming Using Imitation-Based Triple Deep Q-Learning", Wencan Mao*, Quanxi Zhou*, Tomás Couso Coddou, Manabu Tsukada, Liu Yunling, Yusheng Ji, 2026 <i>IEEE International Conference on Robotics & Automation (ICRA)</i> (Contribute Equally)</li>
+
     <li>"Design of Anti-Interference Path Planning for Cellular-Connected UAVs Based on Improved DDPG", Quanxi Zhou, Yongjing Wang, 2024 <i>10th IEEE International Conference on High Performance and Smart Computing (HPSC)</i>, pp. 71–76, IEEE, May 2024, DOI: 10.1109/HPSC62738.2024.00020.</li>
 
     <li>"Design of Enterprise Reputation Evaluation Framework Based on Encrypted Decision Tree Algorithm", Quanxi Zhou, Ruiyu Shen, <i>IOS Press</i>, November 21, 2024, DOI: 10.3233/FAIA241133.</li>
@@ -166,8 +169,6 @@ permalink: /
 <li>"ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization", Wencan Mao, Quanxi Zhou, Yilei Liang, Yaxi Liu, Wei Huangfu, Manabu Tsukada, Jon Crowcroft, and Yusheng Ji <i>IEEE Network Magazine</i>. (Under Review)</li>
 
     <li>"Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments", Quanxi Zhou, Wencan Mao, Yilei Liang, Yixuan Liu, Manabu Tsukada, and Jon Crowcroft <i>IEEE Transactions on Mobile Computing</i>. (Under Review)</li>
-
-    <li>A paper about UAV application and new RL method, Wencan Mao*, Quanxi Zhou*, Tomás Couso Coddou, Yilei Liang, Yunling Liu, Manabu Tsukada, Jon Crowcroft, and Yusheng Ji (Conference Submission, Contribute Equally, Anonymous <b>Double-Blind</b> Review)</li>
 
     <li>A paper about feature and RL, Quanxi Zhou, Wencan Mao, Manabu Tsukada, John C.S. Lui, and Yusheng Ji (Conference Submission, Anonymous <b>Double-Blind</b> Review)</li>
 
