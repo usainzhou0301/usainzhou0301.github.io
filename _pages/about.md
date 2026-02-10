@@ -141,6 +141,7 @@ permalink: /
 
 <div style="font-size:10pt;">
   <ul>
+	<li>"Deep Reinforcement Learning for Automated Guided Vehicle Trajectory Planning in Industry 4.0", Quanxi Zhou, Wencan Mao, Yu Xiao, Manabu Tsukada, Yusheng Ji, 2026 <i> IEEE International Conference on Computer Communications (Infocom Workshop) </i> </li>
 
  	<li>"Trajectory Planning for UAV-Based Smart Farming Using Imitation-Based Triple Deep Q-Learning", Wencan Mao*, Quanxi Zhou*, Tomás Couso Coddou, Manabu Tsukada, Liu Yunling, Yusheng Ji, 2026 <i>IEEE International Conference on Robotics & Automation (ICRA)</i> (Contribute Equally)</li>
 
@@ -175,8 +176,6 @@ permalink: /
     <li>"Terrain-Aware UAV-Based Agriculture Monitoring Using Feature-Driven Reinforcement Learning", Quanxi Zhou, Wencan Mao, Cho Byungjin, Ye Tao, Yuchen Yang, and Tsukada Manabu (Under Review, IEEE Internet of Things Journal)</li>
 
     <li>"EIA-SEC: Elite Imitation Actor and Shared Ensemble Critic Reinforcement Learning for Trajectory Planning in UAV-Assisted Smart Agricultural System", Quanxi Zhou, Wencan Mao, Yilei Liang, Manabu Tsukada, Jon Crowcraft, and Yunling Liu (Under Review, Conference Submission)</li>
-
-    <li>"Deep Reinforcement Learning for Automated Guided Vehicle Trajectory Planning in Industry 4.0", Quanxi Zhou, Wencan Mao, Yu Xiao, Manabu Tsukada, Yusheng Ji(Under Review, Infocom Workshop)</li>
 
     <li>"Joint Capacity Planning and Resource Allocation for UAV-Assisted Vehicular Fog Computing Using Deep Reinforcement Learning", Quanxi Zhou, Wencan Mao, Yu Xiao, Manabu Tsukada, (Under Review, IEEE ICFEC)</li>
 
