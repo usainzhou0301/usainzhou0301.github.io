@@ -173,13 +173,16 @@ permalink: /
 
     <li>A paper about feature and RL, Quanxi Zhou, Wencan Mao, Manabu Tsukada, John C.S. Lui, and Yusheng Ji (Conference Submission, Anonymous <b>Double-Blind</b> Review)</li>
 
-    <li>"Terrain-Aware UAV-Based Agriculture Monitoring Using Feature-Driven Reinforcement Learning", Quanxi Zhou, Wencan Mao, Cho Byungjin, Ye Tao, Yuchen Yang, and Tsukada Manabu (Under Review, IEEE Internet of Things Journal)</li>
-
-    <li>"EIA-SEC: Elite Imitation Actor and Shared Ensemble Critic Reinforcement Learning for Trajectory Planning in UAV-Assisted Smart Agricultural System", Quanxi Zhou, Wencan Mao, Yilei Liang, Manabu Tsukada, Jon Crowcraft, and Yunling Liu (Under Review, Conference Submission)</li>
-
-    <li>"Joint Capacity Planning and Resource Allocation for UAV-Assisted Vehicular Fog Computing Using Deep Reinforcement Learning", Quanxi Zhou, Wencan Mao, Yu Xiao, Manabu Tsukada, (Under Review, IEEE ICFEC)</li>
+    <li>"JA Privacy-Preserving UAV-Assisted Secure Wireless Communication and Computing System Based on Full Homomorphic Encryption", Quanxi Zhou, Wencan Mao, Ye Tao, Manabu Tsukada, Kensuke Fukuda, and Yusheng Ji(Under Review, GLOBECOM)</li>
+	
+	<li>"Energy Harvesting UAV-Enabled Mobile Edge Computingwith Sustainable Wireless Power Transfer Scheme", Jue Wang, Quanxi Zhou, Wencan Mao, Yaxi Liu, Xulong Li, Boxin He, Fangxin Wang, Manabu Tsukada, Wei Huangfu, and Keping Long (Under Review, IEEE Transactions on Vehicular Technology)</li>
+	
+	<li>"Environment-Aware Multi-UAV Trajectory Planning for Connected Agricultural IoT Systems Using Feature-Driven Reinforcement Learning", Quanxi Zhou, Wencan Mao, Byungjin Cho, Ye Tao, Manabu Tsukada (Under Review, IEEE Transactions on Vehicular Technology)</li>
+	
 
     <li>" Automated Guided Vehicle-Enabled Industry 4.0: A Deep Reinforcement Learning Approach", Quanxi Zhou, Wencan Mao, Manabu Tsukada, Yusheng Ji (Under Writing, IEEE Transactions on Industrial Informatics)</li>
+
+
 
   </ul>
 </div>
