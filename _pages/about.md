@@ -198,6 +198,7 @@ permalink: /
     <li><b>2025</b> The Pacific Rim International Conference on Artificial Intelligence (PRICAI)</li>
 <li><b>2025</b> IEEE International Conference on Communications (ICC)</li>
 <li><b>2026</b> IEEE International Conference on Computer Communications (Infocom)</li>
+<li><b>2026</b> IEEE Transactions on Cognitive Communications and Networking (TCCN)</li>
   </ul>
 </div>
 
