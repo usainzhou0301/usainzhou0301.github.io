@@ -199,6 +199,7 @@ permalink: /
 <li><b>2025</b> IEEE International Conference on Communications (ICC)</li>
 <li><b>2026</b> IEEE International Conference on Computer Communications (Infocom)</li>
 <li><b>2026</b> IEEE Transactions on Cognitive Communications and Networking (TCCN)</li>
+<li><b>2026</b> Frontiers in Physics (Front. Phys.)</li>
   </ul>
 </div>
 
