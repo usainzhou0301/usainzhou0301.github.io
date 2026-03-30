@@ -173,7 +173,7 @@ permalink: /
 
     <li>A paper about feature and RL, Quanxi Zhou, Wencan Mao, Manabu Tsukada, John C.S. Lui, and Yusheng Ji (Conference Submission, Anonymous <b>Double-Blind</b> Review)</li>
 
-    <li>"JA Privacy-Preserving UAV-Assisted Secure Wireless Communication and Computing System Based on Full Homomorphic Encryption", Quanxi Zhou, Wencan Mao, Ye Tao, Manabu Tsukada, Kensuke Fukuda, and Yusheng Ji(Under Review, GLOBECOM)</li>
+    <li>"Privacy-Preserving UAV-Assisted Secure Wireless Communication and Computing System Based on Full Homomorphic Encryption", Quanxi Zhou, Wencan Mao, Ye Tao, Manabu Tsukada, Kensuke Fukuda, and Yusheng Ji(Under Review, GLOBECOM)</li>
 	
 	<li>"Energy Harvesting UAV-Enabled Mobile Edge Computingwith Sustainable Wireless Power Transfer Scheme", Jue Wang, Quanxi Zhou, Wencan Mao, Yaxi Liu, Xulong Li, Boxin He, Fangxin Wang, Manabu Tsukada, Wei Huangfu, and Keping Long (Under Review, IEEE Transactions on Vehicular Technology)</li>
 	
