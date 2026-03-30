@@ -143,7 +143,7 @@ permalink: /
   <ul>
 	<li>"Deep Reinforcement Learning for Automated Guided Vehicle Trajectory Planning in Industry 4.0", Quanxi Zhou, Wencan Mao, Yu Xiao, Manabu Tsukada, Yusheng Ji, 2026 <i> IEEE International Conference on Computer Communications (Infocom Workshop) </i> </li>
 
- 	<li>"Trajectory Planning for UAV-Based Smart Farming Using Imitation-Based Triple Deep Q-Learning", Wencan Mao*, Quanxi Zhou*, Tomás Couso Coddou, Manabu Tsukada, Liu Yunling, Yusheng Ji, 2026 <i>IEEE International Conference on Robotics & Automation (ICRA)</i> (Contribute Equally)</li>
+ 	<li>"Trajectory Planning for UAV-Based Smart Farming Using Imitation-Based Triple Deep Q-Learning", Wencan Mao*, Quanxi Zhou*, Tomás Couso Coddou, Manabu Tsukada, Liu Yunling, Yusheng Ji, 2026 <i>IEEE International Conference on Robotics & Automation (ICRA)</i> (Co-first Author)</li>
 
     <li>"Design of Anti-Interference Path Planning for Cellular-Connected UAVs Based on Improved DDPG", Quanxi Zhou, Yongjing Wang, 2024 <i>10th IEEE International Conference on High Performance and Smart Computing (HPSC)</i>, pp. 71–76, IEEE, May 2024, DOI: 10.1109/HPSC62738.2024.00020.</li>
 
@@ -165,7 +165,7 @@ permalink: /
 
 <div style="font-size:10pt;">
   <ul>
-    <li>"CLIFF: A Multi-Modal Remote Sensing Model for Geological Hazard Monitoring Based on Bitemporal UAV Images", Yili Ren*, Quanxi Zhou*, Wencan Mao, Xinran Wei, Qianxiao Su, Jianzhong Bi, Yusheng Ji, and Manabu Tsukada <i>IEEE Transactions on Geoscience and Remote Sensing</i>. (Under Review, Contribute Equally)</li>
+    <li>"CLIFF: A Multi-Modal Remote Sensing Model for Geological Hazard Monitoring Based on Bitemporal UAV Images", Yili Ren*, Quanxi Zhou*, Wencan Mao, Xinran Wei, Qianxiao Su, Jianzhong Bi, Yusheng Ji, and Manabu Tsukada <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>. (Under Review, Co-first Author)</li>
 
 <li>"ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization", Wencan Mao, Quanxi Zhou, Yilei Liang, Yaxi Liu, Wei Huangfu, Manabu Tsukada, Jon Crowcroft, and Yusheng Ji <i>IEEE Network Magazine</i>. (Under Review)</li>
 
@@ -179,8 +179,14 @@ permalink: /
 	
 	<li>"Environment-Aware Multi-UAV Trajectory Planning for Connected Agricultural IoT Systems Using Feature-Driven Reinforcement Learning", Quanxi Zhou, Wencan Mao, Byungjin Cho, Ye Tao, Manabu Tsukada (Under Review, IEEE Transactions on Vehicular Technology)</li>
 	
+	<li>"Energy Harvesting UAV-Enabled Mobile Edge Computing with Sustainable Wireless Power Transfer Scheme", Jue Wang, Quanxi Zhou, Wencan Mao, Yaxi Liu, Xulong Li, Boxin He, Manabu Tsukada, Wei Huangfu, Keping Long (Under Review, IEEE Transaction on Sustainable Computing)</li>
+	<li>"Joint Capacity Planning and Resource Allocation for UAV-Assisted Vehicular Fog Computing Using Deep Reinforcement Learning", Quanxi Zhou, Wencan Mao, Manabu Tsukada, Yu Xiao (Under Review, IEEE FMLDS)</li>
 
-    <li>" Automated Guided Vehicle-Enabled Industry 4.0: A Deep Reinforcement Learning Approach", Quanxi Zhou, Wencan Mao, Manabu Tsukada, Yusheng Ji (Under Writing, IEEE Transactions on Industrial Informatics)</li>
+	<li>"A Privacy-Preserving UAV-Assisted Secure Wireless Communication and Computing System Based on Fully Homomorphic Encryption", Quanxi Zhou, Wencan Mao, Ye Tao, Manabu Tsukada, Kensuke Fukuda, Yusheng Ji (Under Review, IEEE GLOBECOM)</li>
+
+	<li>"Priority-Aware Flexible Actor-Critic for Task Scheduling of UAV-Assisted Edge Computing", Yunfei Chen, Quanxi Zhou, Wencan Mao, Ye Tao, Guanzhi Lv, Manabu Tsukada(Under Writing, IEEE Conference)</li>
+
+    <li>"Automated Guided Vehicle-Enabled Industry 4.0: A Deep Reinforcement Learning Approach", Quanxi Zhou, Wencan Mao, Manabu Tsukada, Yusheng Ji (Under Writing, IEEE Transactions on Industrial Informatics)</li>
 
 
 
