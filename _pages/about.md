@@ -58,7 +58,7 @@ permalink: /
 
 <div style="font-size:10pt;">
   <ul>
-	<li><b>2026.04–2047.04</b>: New Student Tutor, The University of Tokyo</li>
+	<li><b>2026.04–2027.04</b>: New Student Tutor, The University of Tokyo</li>
     <li><b>2023.03–2023.07</b>: Research Seminar, Beihang University</li>
     <li><b>2022.03–2022.07</b>: Computer Network Experiment, Beihang University</li>
     <li><b>2020.09–2021.07</b>: Undergraduate Research Program, China Agricultural University</li>
