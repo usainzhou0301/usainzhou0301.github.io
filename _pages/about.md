@@ -182,7 +182,6 @@ permalink: /
 	<li>"Energy Harvesting UAV-Enabled Mobile Edge Computing with Sustainable Wireless Power Transfer Scheme", Jue Wang, Quanxi Zhou, Wencan Mao, Yaxi Liu, Xulong Li, Boxin He, Manabu Tsukada, Wei Huangfu, Keping Long (Under Review, IEEE Transaction on Sustainable Computing)</li>
 	<li>"Joint Capacity Planning and Resource Allocation for UAV-Assisted Vehicular Fog Computing Using Deep Reinforcement Learning", Quanxi Zhou, Wencan Mao, Manabu Tsukada, Yu Xiao (Under Review, IEEE FMLDS)</li>
 
-	<li>"A Privacy-Preserving UAV-Assisted Secure Wireless Communication and Computing System Based on Fully Homomorphic Encryption", Quanxi Zhou, Wencan Mao, Ye Tao, Manabu Tsukada, Kensuke Fukuda, Yusheng Ji (Under Review, IEEE GLOBECOM)</li>
 
 	<li>"Priority-Aware Flexible Actor-Critic for Task Scheduling of UAV-Assisted Edge Computing", Yunfei Chen, Quanxi Zhou, Wencan Mao, Ye Tao, Guanzhi Lv, Manabu Tsukada(Under Writing, IEEE Conference)</li>
 
