@@ -141,7 +141,7 @@ permalink: /
 
 <div style="font-size:10pt;">
   <ul>
-	<li>"Deep Reinforcement Learning for Automated Guided Vehicle Trajectory Planning in Industry 4.0", Quanxi Zhou, Wencan Mao, Yu Xiao, Manabu Tsukada, Yusheng Ji, 2026 <i> IEEE International Conference on Computer Communications (Infocom Workshop) </i> </li>
+	<li>"Deep Reinforcement Learning for Automated Guided Vehicle Trajectory Planning in Industry 4.0", Quanxi Zhou, Wencan Mao, Yu Xiao, Manabu Tsukada, Yusheng Ji, 2026 <i> IEEE International Conference on Computer Communications (Infocom Workshop, Best Paper Runner-Up Award) </i> </li>
 
  	<li>"Trajectory Planning for UAV-Based Smart Farming Using Imitation-Based Triple Deep Q-Learning", Wencan Mao*, Quanxi Zhou*, Tomás Couso Coddou, Manabu Tsukada, Liu Yunling, Yusheng Ji, 2026 <i>IEEE International Conference on Robotics & Automation (ICRA)</i> (Co-first Author)</li>
 
@@ -165,13 +165,13 @@ permalink: /
 
 <div style="font-size:10pt;">
   <ul>
-    <li>"CLIFF: A Multi-Modal Remote Sensing Model for Geological Hazard Monitoring Based on Bitemporal UAV Images", Yili Ren*, Quanxi Zhou*, Wencan Mao, Xinran Wei, Qianxiao Su, Jianzhong Bi, Yusheng Ji, and Manabu Tsukada <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>. (Under Review, Co-first Author)</li>
+    <li>"CLIFF: A Multi-Modal Remote Sensing Model for Geological Hazard Monitoring Based on Bitemporal UAV Images", Quanxi Zhou, Qianxiao, Xinran Wei, Wencan Mao, Yili Ren, Yunfei Chen, Jianzhong Bi, Mingjun Zhao, and Manabu Tsukada <i> Remote Sensing </i>. (Under Review)</li>
 
 <li>"ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization", Wencan Mao, Quanxi Zhou, Yilei Liang, Yaxi Liu, Wei Huangfu, Manabu Tsukada, Jon Crowcroft, and Yusheng Ji <i>IEEE Network Magazine</i>. (Under Review)</li>
 
-    <li>"Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments", Quanxi Zhou, Wencan Mao, Yilei Liang, Yixuan Liu, Manabu Tsukada, and Jon Crowcroft <i>IEEE Transactions on Mobile Computing</i>. (Under Review)</li>
+    <li>"Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments", Quanxi Zhou, Wencan Mao, Yilei Liang, Yixuan Liu, Manabu Tsukada, Jon Crowcroft, John C.S. Lui, and Yusheng Ji <i>IEEE Transactions on Mobile Computing</i>. (Under Review)</li>
 
-    <li>A paper about feature and RL, Quanxi Zhou, Wencan Mao, Manabu Tsukada, John C.S. Lui, and Yusheng Ji (Conference Submission, Anonymous <b>Double-Blind</b> Review)</li>
+1.     <li>A paper about feature and RL, Quanxi Zhou, Wencan Mao, Manabu Tsukada, John C.S. Lui, and Yusheng Ji (Conference Submission, Anonymous <b>Double-Blind</b> Review)</li>
 
     <li>"Privacy-Preserving UAV-Assisted Secure Wireless Communication and Computing System Based on Full Homomorphic Encryption", Quanxi Zhou, Wencan Mao, Ye Tao, Manabu Tsukada, Kensuke Fukuda, and Yusheng Ji(Under Review, GLOBECOM)</li>
 	
@@ -183,7 +183,7 @@ permalink: /
 	<li>"Joint Capacity Planning and Resource Allocation for UAV-Assisted Vehicular Fog Computing Using Deep Reinforcement Learning", Quanxi Zhou, Wencan Mao, Manabu Tsukada, Yu Xiao (Under Review, IEEE FMLDS)</li>
 
 
-	<li>"Priority-Aware Flexible Actor-Critic for Task Scheduling of UAV-Assisted Edge Computing", Yunfei Chen, Quanxi Zhou, Wencan Mao, Ye Tao, Guanzhi Lv, Manabu Tsukada(Under Writing, IEEE Conference)</li>
+	<li>"Priority-Aware Flexible Actor-Critic for Task Scheduling of UAV-Assisted Edge Computing", Yunfei Chen, Quanxi Zhou, Wencan Mao, Ye Tao, Guanzhi Lv, Manabu Tsukada(Under Review, IEEE FINE)</li>
 
     <li>"Automated Guided Vehicle-Enabled Industry 4.0: A Deep Reinforcement Learning Approach", Quanxi Zhou, Wencan Mao, Manabu Tsukada, Yusheng Ji (Under Writing, IEEE Transactions on Industrial Informatics)</li>
 
@@ -205,6 +205,7 @@ permalink: /
 <li><b>2026</b> IEEE International Conference on Computer Communications (Infocom)</li>
 <li><b>2026</b> IEEE Transactions on Cognitive Communications and Networking (TCCN)</li>
 <li><b>2026</b> Frontiers in Physics (Front. Phys.)</li>
+<li><b>2026</b> IEEE Global Communications Conference (GLOBECOM) </li>
   </ul>
 </div>
 
@@ -213,6 +214,7 @@ permalink: /
 
 <div style="font-size:10pt;">
   <ul>
+	<li>2026.05 Best Paper Runner-Up Award, Infocom Workshop 2026</li>
     <li>2024.10 SpringGX Award of Utokyo</li>
 	<li>2024.01 Outstanding Graduate of BUAA</li>
 	<li>2024.01 Outstanding Student Leader of BUAA</li>
