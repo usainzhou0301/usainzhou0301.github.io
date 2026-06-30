@@ -23,7 +23,7 @@ permalink: /
 ## 🔬 Research Interests
 
 <div style="font-size:10pt;">
-  <ul>
+  <ul style="column-count:2; column-gap:40px; list-style-position:inside; padding-left:0;">
     <li>Wireless Communication</li>
     <li>Reinforcement Learning</li>
     <li>UAV Trajectory Optimization</li>
@@ -32,8 +32,8 @@ permalink: /
     <li>Computer Vision</li>
     <li>Remote Sensing</li>
     <li>Homomorphic Encryption</li>
-	<li>Privacy-Preserving Computation</li>
-	<li>Secure Multi-Party Computation</li>
+    <li>Privacy-Preserving Computation</li>
+    <li>Secure Multi-Party Computation</li>
   </ul>
 </div>
 
@@ -167,7 +167,7 @@ permalink: /
   <ul>
     <li>"CLIFF: A Multi-Modal Remote Sensing Model for Geological Hazard Monitoring Based on Bitemporal UAV Images", Quanxi Zhou, Qianxiao, Xinran Wei, Wencan Mao, Yili Ren, Yunfei Chen, Jianzhong Bi, Mingjun Zhao, and Manabu Tsukada <i> Remote Sensing </i>. (Under Review)</li>
 
-<li>"ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization", Wencan Mao, Quanxi Zhou, Yilei Liang, Yaxi Liu, Wei Huangfu, Manabu Tsukada, Jon Crowcroft, and Yusheng Ji <i>IEEE Network Magazine</i>. (Under Review)</li>
+<li>"ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization", Wencan Mao, Quanxi Zhou, Yilei Liang, Yaxi Liu, Wei Huangfu, Manabu Tsukada, Jon Crowcroft, and Yusheng Ji <i>IEEE Network Magazine</i>. (Major Revision)</li>
 
     <li>"Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments", Quanxi Zhou, Wencan Mao, Yilei Liang, Yixuan Liu, Manabu Tsukada, Jon Crowcroft, John C.S. Lui, and Yusheng Ji <i>IEEE Transactions on Mobile Computing</i>. (Under Review)</li>
 
@@ -204,6 +204,8 @@ permalink: /
 <li><b>2026</b> IEEE Transactions on Cognitive Communications and Networking (TCCN)</li>
 <li><b>2026</b> Frontiers in Physics (Front. Phys.)</li>
 <li><b>2026</b> IEEE Global Communications Conference (GLOBECOM) </li>
+<li><b>2026</b> Neural Information Processing Systems （NeurIPS） </li>
+<li><b>2026</b> Intelligent Unmanned Technologies and Systems (IUTS) </li>
   </ul>
 </div>
 
