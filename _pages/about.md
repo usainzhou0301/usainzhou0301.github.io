@@ -206,7 +206,8 @@ permalink: /
 }
 
 @media (max-width:640px){
-  .qz-hero{ flex-direction:column; align-items:center; text-align:left; }
+  .qz-hero{ flex-direction:row; align-items:flex-start; }
+  .qz-hero img{ width:90px; height:90px; }
   .qz-list{ columns:1; }
 }
 </style>
