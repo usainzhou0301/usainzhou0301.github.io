@@ -298,7 +298,7 @@ permalink: /
 <ul class="qz-pub">
   <li>"Deep Reinforcement Learning for Automated Guided Vehicle Trajectory Planning in Industry 4.0", Quanxi Zhou, Wencan Mao, Yu Xiao, Manabu Tsukada, Yusheng Ji, 2026 <i>IEEE International Conference on Computer Communications (Infocom Workshop)</i> <span class="tag award">Best Paper Runner-Up</span></li>
   <li>"Trajectory Planning for UAV-Based Smart Farming Using Imitation-Based Triple Deep Q-Learning", Wencan Mao*, Quanxi Zhou*, Tomás Couso Coddou, Manabu Tsukada, Liu Yunling, Yusheng Ji, 2026 <i>IEEE International Conference on Robotics &amp; Automation (ICRA)</i> <span class="tag">Co-first Author</span></li>
-  <li>"Priority-Aware Flexible Actor-Critic for Task Scheduling of UAV-Assisted Edge Computing", Yunfei Chen, Quanxi Zhou, Wencan Mao, Ye Tao, Guanzhi Lv, Manabu Tsukada, <i>International Conference on Future and Intelligent Networking 2026 (FINE)</i></li>
+  <li>"Priority-Aware Flexible Actor-Critic for Task Scheduling of UAV-Assisted Edge Computing", Yunfei Chen, Quanxi Zhou, Wencan Mao, Ye Tao, Guanzhi Liu, Manabu Tsukada, 2026 <i>International Conference on Future and Intelligent Networking (FINE)</i></li>
   <li>"Design of Anti-Interference Path Planning for Cellular-Connected UAVs Based on Improved DDPG", Quanxi Zhou, Yongjing Wang, 2024 <i>10th IEEE International Conference on High Performance and Smart Computing (HPSC)</i>, pp. 71–76, IEEE, May 2024, DOI: 10.1109/HPSC62738.2024.00020.</li>
   <li>"Design of Enterprise Reputation Evaluation Framework Based on Encrypted Decision Tree Algorithm", Quanxi Zhou, Ruiyu Shen, <i>IOS Press</i>, November 21, 2024, DOI: 10.3233/FAIA241133.</li>
 </ul>
