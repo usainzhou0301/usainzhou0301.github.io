@@ -312,7 +312,7 @@ permalink: /
 
 <h3>Ongoing Works</h3>
 <ul class="qz-pub">
-  <li>"CLIFF: A Multi-Modal Remote Sensing Model for Geological Hazard Monitoring Based on Bitemporal UAV Images", Quanxi Zhou, Qianxiao, Xinran Wei, Wencan Mao, Yili Ren, Yunfei Chen, Jianzhong Bi, Mingjun Zhao, and Manabu Tsukada, <i>Remote Sensing</i>. <span class="tag review">Under Review</span></li>
+  <li>"CLIFF: A Multi-Modal Remote Sensing Model for Geological Hazard Monitoring Based on Bitemporal UAV Images", Quanxi Zhou, Qianxiao, Xinran Wei, Wencan Mao, Yili Ren, Yunfei Chen, Jianzhong Bi, Mingjun Zhao, and Manabu Tsukada, <i>Remote Sensing</i>. <span class="tag review">Major Revision</span></li>
   <li>"ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization", Wencan Mao, Quanxi Zhou, Yilei Liang, Yaxi Liu, Wei Huangfu, Manabu Tsukada, Jon Crowcroft, and Yusheng Ji, <i>IEEE Network Magazine</i>. <span class="tag review">Major Revision</span></li>
   <li>"Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments", Quanxi Zhou, Wencan Mao, Yilei Liang, Yixuan Liu, Manabu Tsukada, Jon Crowcroft, John C.S. Lui, and Yusheng Ji, <i>IEEE Transactions on Mobile Computing</i>. <span class="tag review">Under Review</span></li>
   <li>"Privacy-Preserving UAV-Assisted Secure Wireless Communication and Computing System Based on Full Homomorphic Encryption", Quanxi Zhou, Wencan Mao, Ye Tao, Manabu Tsukada, Kensuke Fukuda, and Yusheng Ji. <span class="tag review">Under Review, GLOBECOM</span></li>
