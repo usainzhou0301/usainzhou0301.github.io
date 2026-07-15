@@ -1,64 +1,137 @@
 ---
-layout: archive
-title: "CV"
+layout: single
+title: ""
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include qz-style.html %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<div class="qz" markdown="0">
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<div class="qz-pagehead">
+  <h1>Curriculum Vitae</h1>
+  <p>Education, teaching, projects, and internship experience.</p>
+</div>
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+<h2>🎓 Education</h2>
+<div class="qz-timeline">
+  <div class="qz-tl-item">
+    <div class="qz-date">2024.10 – present</div>
+    <div class="qz-body">Ph.D. Student · The University of Tokyo</div>
+    <div class="qz-sub">Graduate School of Information Science and Technology · Tsukada Lab</div>
+  </div>
+  <div class="qz-tl-item">
+    <div class="qz-date">2024.04 – 2024.10</div>
+    <div class="qz-body">Research Student · The University of Tokyo</div>
+    <div class="qz-sub">Graduate School of Information Science and Technology</div>
+  </div>
+  <div class="qz-tl-item">
+    <div class="qz-date">2021.09 – 2024.01</div>
+    <div class="qz-body">M.Eng. · Beihang University</div>
+    <div class="qz-sub">School of Cyber Science and Technology · Cyberspace Security</div>
+  </div>
+  <div class="qz-tl-item">
+    <div class="qz-date">2017.09 – 2021.07</div>
+    <div class="qz-body">B.Eng. · China Agricultural University</div>
+    <div class="qz-sub">College of Information and Electrical Engineering · Computer Science and Technology (Honors Program)</div>
+  </div>
+</div>
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<h2>👩‍🏫 Teaching Assistant</h2>
+<div class="qz-timeline">
+  <div class="qz-tl-item">
+    <div class="qz-date">2026.04 – 2027.04</div>
+    <div class="qz-body">New Student Tutor</div>
+    <div class="qz-sub">The University of Tokyo</div>
+  </div>
+  <div class="qz-tl-item">
+    <div class="qz-date">2023.03 – 2023.07</div>
+    <div class="qz-body">Research Seminar</div>
+    <div class="qz-sub">Beihang University</div>
+  </div>
+  <div class="qz-tl-item">
+    <div class="qz-date">2022.03 – 2022.07</div>
+    <div class="qz-body">Computer Network Experiment</div>
+    <div class="qz-sub">Beihang University</div>
+  </div>
+  <div class="qz-tl-item">
+    <div class="qz-date">2020.09 – 2021.07</div>
+    <div class="qz-body">Undergraduate Research Program</div>
+    <div class="qz-sub">China Agricultural University</div>
+  </div>
+</div>
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<h2>🏛️ Student Union Roles</h2>
+<div class="qz-cards one">
+  <div class="qz-card">
+    <span class="qz-date">2022.03 – 2023.09</span>
+    <div class="qz-body">President, Graduate Student Union</div>
+    <div class="qz-sub">School of Cyberspace Security, Beihang University</div>
+  </div>
+  <div class="qz-card">
+    <span class="qz-date">2019.09 – 2020.09</span>
+    <div class="qz-body">Minister of Academic Development, Student Union</div>
+    <div class="qz-sub">China Agricultural University</div>
+  </div>
+</div>
+
+<h2>🛠️ Project Experience</h2>
+
+<h3>National Level</h3>
+<div class="qz-cards one">
+  <div class="qz-card">
+    <span class="qz-date">2022.10 – 2024.01</span>
+    <div class="qz-body">Fully Homomorphic Encryption Core Algorithms and Trustworthiness Verification Methods</div>
+    <div class="qz-sub">National Key R&amp;D Program Youth Scientist Project — Beihang University · Grant No. 2023YFB3106200</div>
+  </div>
+  <div class="qz-card">
+    <span class="qz-date">2019.12 – 2021.03</span>
+    <div class="qz-body">Autonomous Transportation Robot for Solar Greenhouse Based on ROS System</div>
+    <div class="qz-sub">National College Student Innovation and Entrepreneurship Training Program — China Agricultural University · Grant No. 202010019049</div>
+  </div>
+</div>
+
+<h3>University Level</h3>
+<div class="qz-cards one">
+  <div class="qz-card">
+    <span class="qz-date">2019.01 – 2020.03</span>
+    <div class="qz-body">System Integration of Shellfish Object Detection Methods Based on Deep Convolutional Networks</div>
+    <div class="qz-sub">Undergraduate Research and Training Program — China Agricultural University</div>
+  </div>
+  <div class="qz-card">
+    <span class="qz-date">2018.12 – 2020.03</span>
+    <div class="qz-body">Raspberry System and Intelligent Vehicle with Binocular Recognition Technology</div>
+    <div class="qz-sub">Undergraduate Research and Training Program — China Agricultural University</div>
+  </div>
+</div>
+
+<h2>💼 Internship Experience</h2>
+<div class="qz-cards">
+  <div class="qz-card">
+    <span class="qz-date">2021.09 – 2021.12</span>
+    <div class="qz-body">China Academy of Information and Communications Technology</div>
+  </div>
+  <div class="qz-card">
+    <span class="qz-date">2020.12 – 2021.03</span>
+    <div class="qz-body">Eastsoft Technology Co., Ltd.</div>
+  </div>
+  <div class="qz-card">
+    <span class="qz-date">2019.10 – 2020.09</span>
+    <div class="qz-body">CNPC Research Institute of Petroleum Exploration and Development</div>
+  </div>
+  <div class="qz-card">
+    <span class="qz-date">2019.03 – 2019.06</span>
+    <div class="qz-body">Chinese Academy of Sciences</div>
+  </div>
+</div>
+
+<h2>📬 Contact</h2>
+<div class="qz-contact">
+  <a href="mailto:usainzhou@g.ecc.u-tokyo.ac.jp"><span class="qz-ico">📧</span> usainzhou@g.ecc.u-tokyo.ac.jp</a>
+  <a href="https://scholar.google.com/citations?hl=en&user=P2mHCpgAAAAJ" target="_blank"><span class="qz-ico">🔗</span> Google Scholar</a>
+</div>
+
+</div>
