@@ -94,49 +94,48 @@
   0%,100%{ box-shadow:0 0 0 3px rgba(255,215,106,.25); }
   50%    { box-shadow:0 0 0 7px rgba(255,215,106,.02); }
 }
-.qz-nav-here{
-  margin-top:12px;
-  padding:8px 10px 4px;
-  font-size:11.2px;
-  color:#5b6472;
-  letter-spacing:.5px;
-  text-transform:uppercase;
-  font-weight:600;
-  border-top:1px dashed #e4e8ee;
-}
-.qz-nav-here::before{
-  content:"◉ ";
-  color:#2E6BB8;
-  vertical-align:middle;
-}
-.qz-nav-here b{ color:#1B3A6B; }
-
 /* footer inside nav */
 .qz-nav-foot{
-  margin-top:10px;
+  margin-top:12px;
   display:flex;
+  flex-direction:column;
   gap:6px;
-  flex-wrap:wrap;
-  padding:0 4px;
+  padding:10px 4px 2px;
+  border-top:1px dashed #e4e8ee;
+}
+.qz-nav-foot-label{
+  font-size:11px;
+  color:#8892a1;
+  letter-spacing:1.2px;
+  text-transform:uppercase;
+  font-weight:700;
+  padding:2px 4px 4px;
 }
 .qz-nav-foot a{
-  flex:1 1 0;
-  min-width:0;
-  text-align:center;
-  padding:8px 4px;
-  font-size:11.6px;
-  color:#2E6BB8 !important;
+  display:flex;
+  align-items:center;
+  gap:8px;
+  padding:8px 10px;
+  font-size:11.8px;
+  color:#1B3A6B !important;
   background:#fff;
   border:1px solid #e8ecf3;
-  border-radius:8px;
+  border-radius:9px;
   text-decoration:none !important;
   font-weight:600;
   transition:all .18s ease;
+  word-break:break-all;
+  line-height:1.3;
+}
+.qz-nav-foot a .qz-nav-foot-ico{
+  font-size:14px;
+  flex:0 0 auto;
 }
 .qz-nav-foot a:hover{
   background:#2E6BB8;
   color:#fff !important;
   border-color:#2E6BB8;
+  transform:translateX(2px);
 }
 </style>
 
@@ -157,17 +156,13 @@
     <span class="qz-nav-ico">🏆</span><span class="qz-nav-txt">Awards &amp; Honors</span>
   </a>
 
-  <div class="qz-nav-here">
-    You are on
-    {% if qzu == '/' %}<b>Home</b>
-    {% elsif qzu contains '/experience' %}<b>Experience</b>
-    {% elsif qzu contains '/publications' %}<b>Publications</b>
-    {% elsif qzu contains '/awards' %}<b>Awards &amp; Honors</b>
-    {% endif %}
-  </div>
-
   <div class="qz-nav-foot">
-    <a href="mailto:usainzhou@g.ecc.u-tokyo.ac.jp" title="Email">📧 Email</a>
-    <a href="https://scholar.google.com/citations?hl=en&user=P2mHCpgAAAAJ" target="_blank" title="Google Scholar">🔗 Scholar</a>
+    <div class="qz-nav-foot-label">Contact</div>
+    <a href="mailto:usainzhou@g.ecc.u-tokyo.ac.jp" title="Email">
+      <span class="qz-nav-foot-ico">📧</span><span>usainzhou@g.ecc.u-tokyo.ac.jp</span>
+    </a>
+    <a href="https://scholar.google.com/citations?hl=en&user=P2mHCpgAAAAJ" target="_blank" title="Google Scholar">
+      <span class="qz-nav-foot-ico">🔗</span><span>Google Scholar</span>
+    </a>
   </div>
 </nav>
