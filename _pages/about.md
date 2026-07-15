@@ -1,11 +1,8 @@
 ---
-layout: single
+layout: qz
 title: ""
 permalink: /
-author_profile: false
 ---
-
-{% include qz-style.html %}
 
 <div class="qz" markdown="0">
 
@@ -14,19 +11,19 @@ author_profile: false
   <div class="qz-bio">
     <h1>Quanxi Zhou <span style="font-weight:400;color:#5b6472;font-size:18px;">(周泉锡 · Usain)</span></h1>
     <div class="qz-subline">Ph.D. Student · The University of Tokyo</div>
-    Quanxi Zhou is a Ph.D. student at
-    <a href="https://tlab.hongo.wide.ad.jp/ja/">Tsukada Lab</a>,
-    <strong>Graduate School of Information Science and Technology, The University of Tokyo</strong>.
-    He received his B.Eng. degree in Computer Science and Technology (Honors Program) from
-    <strong>China Agricultural University</strong> in 2021,
-    and his M.Eng. degree in Cyberspace Security from
-    <strong>Beihang University</strong> in 2024.
-    His research focuses on reinforcement learning for UAV trajectory planning,
-    wireless communication, and privacy-preserving computation.
+    Quanxi Zhou (Usain, 周泉锡) is a Ph.D. student at
+    <a href="https://tlab.hongo.wide.ad.jp/ja/">Tsukada Lab</a> of
+    <strong>School of Information Science and Technology, The University of Tokyo</strong>.
+    He received the B.Eng. degree from the
+    <strong>College of Information and Electrical Engineering</strong>,
+    <strong>China Agricultural University</strong>, Beijing, China, in 2021 in
+    Computer Science and Technology of the Honors Program,
+    and received the M.Eng. degree from the
+    <strong>School of Cyber Science and Technology</strong>,
+    <strong>Beihang University</strong>, Beijing, China, in 2024,
+    majoring in Cyberspace Security.
   </div>
 </div>
-
-{% include qz-nav.html %}
 
 <h2>🔬 Research Interests</h2>
 <div class="qz-chips">

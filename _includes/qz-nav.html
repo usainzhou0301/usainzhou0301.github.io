@@ -1,18 +1,16 @@
 <style>
-/* ============ Inline primary navigation (Quanxi Zhou site) ============ */
-.qz-nav-wrap{
-  margin:22px 0 26px;
-}
+/* ============ Vertical sidebar navigation ============ */
 .qz-nav{
   display:flex;
-  flex-wrap:wrap;
-  gap:10px;
-  padding:10px;
-  background:linear-gradient(135deg,#ffffff 0%,#f4f8ff 100%);
+  flex-direction:column;
+  gap:8px;
+  padding:16px 14px 18px;
+  background:linear-gradient(180deg,#ffffff 0%,#f4f8ff 100%);
   border:1px solid #dfe7f2;
   border-radius:18px;
-  box-shadow:0 6px 20px rgba(27,58,107,.08);
+  box-shadow:0 6px 22px rgba(27,58,107,.09);
   position:relative;
+  overflow:hidden;
 }
 .qz-nav::before{
   content:"";
@@ -22,71 +20,65 @@
   background:linear-gradient(90deg,#1B3A6B,#2E6BB8,#5aa0ff,#2E6BB8,#1B3A6B);
   background-size:200% 100%;
   animation:qz-nav-shimmer 8s linear infinite;
-  border-radius:18px 18px 0 0;
-  opacity:.85;
 }
 @keyframes qz-nav-shimmer{
   0%{ background-position:0% 50%; }
   100%{ background-position:200% 50%; }
 }
+.qz-nav-title{
+  font-size:11px;
+  color:#8892a1;
+  letter-spacing:1.4px;
+  text-transform:uppercase;
+  font-weight:700;
+  padding:6px 8px 4px;
+  margin-bottom:2px;
+  border-bottom:1px dashed #e4e8ee;
+}
 .qz-nav a.qz-nav-item{
-  flex:1 1 0;
-  min-width:150px;
   display:flex;
   align-items:center;
-  justify-content:center;
-  gap:9px;
-  padding:14px 18px;
-  border-radius:12px;
+  gap:11px;
+  padding:11px 13px;
+  border-radius:11px;
   background:#fff;
-  border:1px solid #e4e8ee;
+  border:1px solid #e8ecf3;
   color:#2b3648;
-  font-size:14px;
+  font-size:13.6px;
   font-weight:600;
-  letter-spacing:.2px;
+  letter-spacing:.15px;
   text-decoration:none !important;
-  transition:transform .2s ease, box-shadow .2s ease,
-             background .2s ease, color .2s ease, border-color .2s ease;
+  transition:transform .18s ease, box-shadow .18s ease,
+             background .18s ease, color .18s ease, border-color .18s ease;
   position:relative;
   overflow:hidden;
 }
-.qz-nav a.qz-nav-item::after{
-  content:"";
-  position:absolute;
-  left:12px; right:12px; bottom:6px;
-  height:2px;
-  background:linear-gradient(90deg,#2E6BB8,#5aa0ff);
-  border-radius:2px;
-  transform:scaleX(0);
-  transform-origin:left;
-  transition:transform .25s ease;
-}
 .qz-nav a.qz-nav-item:hover{
-  transform:translateY(-2px);
+  transform:translateX(3px);
   border-color:#c6d5ec;
-  box-shadow:0 8px 18px rgba(27,58,107,.12);
+  box-shadow:0 6px 14px rgba(27,58,107,.10);
   color:#1B3A6B;
-}
-.qz-nav a.qz-nav-item:hover::after{
-  transform:scaleX(1);
+  background:#f6faff;
 }
 .qz-nav a.qz-nav-item .qz-nav-ico{
   font-size:17px;
   line-height:1;
-  filter:saturate(.9);
+  width:22px;
+  text-align:center;
+  flex:0 0 auto;
 }
+.qz-nav a.qz-nav-item .qz-nav-txt{ flex:1 1 auto; }
 .qz-nav a.qz-nav-item.active{
   background:linear-gradient(135deg,#1B3A6B 0%,#2E6BB8 100%);
   color:#fff !important;
   border-color:transparent;
-  box-shadow:0 8px 22px rgba(27,58,107,.35),
+  box-shadow:0 10px 20px rgba(27,58,107,.32),
              inset 0 1px 0 rgba(255,255,255,.15);
-  transform:translateY(-1px);
 }
-.qz-nav a.qz-nav-item.active::before{
+.qz-nav a.qz-nav-item.active::after{
   content:"";
   position:absolute;
-  left:14px; top:50%;
+  right:14px; top:50%;
   width:6px; height:6px;
   border-radius:50%;
   background:#ffd76a;
@@ -94,65 +86,88 @@
   transform:translateY(-50%);
   animation:qz-pulse 1.8s ease-in-out infinite;
 }
-.qz-nav a.qz-nav-item.active::after{ display:none; }
 .qz-nav a.qz-nav-item.active:hover{
-  transform:translateY(-2px);
-  box-shadow:0 12px 28px rgba(27,58,107,.45);
+  transform:translateX(2px);
+  box-shadow:0 14px 26px rgba(27,58,107,.42);
 }
 @keyframes qz-pulse{
   0%,100%{ box-shadow:0 0 0 3px rgba(255,215,106,.25); }
-  50%    { box-shadow:0 0 0 6px rgba(255,215,106,.05); }
+  50%    { box-shadow:0 0 0 7px rgba(255,215,106,.02); }
 }
-
-/* "You are here" mini label */
 .qz-nav-here{
-  display:none;
-  margin-top:8px;
-  font-size:11.5px;
+  margin-top:12px;
+  padding:8px 10px 4px;
+  font-size:11.2px;
   color:#5b6472;
-  text-align:center;
-  letter-spacing:.4px;
+  letter-spacing:.5px;
   text-transform:uppercase;
   font-weight:600;
+  border-top:1px dashed #e4e8ee;
+}
+.qz-nav-here::before{
+  content:"◉ ";
+  color:#2E6BB8;
+  vertical-align:middle;
 }
 .qz-nav-here b{ color:#1B3A6B; }
-.qz-nav-here::before{
-  content:"● ";
-  color:#2E6BB8;
-  font-size:9px;
-  vertical-align:middle;
-  margin-right:2px;
-}
-.qz-nav-wrap.show-here .qz-nav-here{ display:block; }
 
-@media (max-width:640px){
-  .qz-nav a.qz-nav-item{ flex:1 1 45%; padding:12px 10px; font-size:13px; }
-  .qz-nav a.qz-nav-item .qz-nav-txt{ font-size:13px; }
+/* footer inside nav */
+.qz-nav-foot{
+  margin-top:10px;
+  display:flex;
+  gap:6px;
+  flex-wrap:wrap;
+  padding:0 4px;
+}
+.qz-nav-foot a{
+  flex:1 1 0;
+  min-width:0;
+  text-align:center;
+  padding:8px 4px;
+  font-size:11.6px;
+  color:#2E6BB8 !important;
+  background:#fff;
+  border:1px solid #e8ecf3;
+  border-radius:8px;
+  text-decoration:none !important;
+  font-weight:600;
+  transition:all .18s ease;
+}
+.qz-nav-foot a:hover{
+  background:#2E6BB8;
+  color:#fff !important;
+  border-color:#2E6BB8;
 }
 </style>
 
 {% assign qzu = page.url %}
-<div class="qz-nav-wrap show-here">
-  <nav class="qz-nav" aria-label="Primary">
-    <a href="{{ '/' | relative_url }}" class="qz-nav-item{% if qzu == '/' %} active{% endif %}">
-      <span class="qz-nav-ico">🏠</span><span class="qz-nav-txt">Home</span>
-    </a>
-    <a href="{{ '/cv/' | relative_url }}" class="qz-nav-item{% if qzu contains '/cv' %} active{% endif %}">
-      <span class="qz-nav-ico">👤</span><span class="qz-nav-txt">Personal Experience</span>
-    </a>
-    <a href="{{ '/publications/' | relative_url }}" class="qz-nav-item{% if qzu contains '/publications' %} active{% endif %}">
-      <span class="qz-nav-ico">📚</span><span class="qz-nav-txt">Publications</span>
-    </a>
-    <a href="{{ '/awards/' | relative_url }}" class="qz-nav-item{% if qzu contains '/awards' %} active{% endif %}">
-      <span class="qz-nav-ico">🏆</span><span class="qz-nav-txt">Awards &amp; Honors</span>
-    </a>
-  </nav>
+<nav class="qz-nav" aria-label="Primary">
+  <div class="qz-nav-title">Navigation</div>
+
+  <a href="{{ site.baseurl }}/" class="qz-nav-item{% if qzu == '/' %} active{% endif %}">
+    <span class="qz-nav-ico">🏠</span><span class="qz-nav-txt">Home</span>
+  </a>
+  <a href="{{ site.baseurl }}/experience/" class="qz-nav-item{% if qzu contains '/experience' %} active{% endif %}">
+    <span class="qz-nav-ico">👤</span><span class="qz-nav-txt">Experience</span>
+  </a>
+  <a href="{{ site.baseurl }}/publications/" class="qz-nav-item{% if qzu contains '/publications' %} active{% endif %}">
+    <span class="qz-nav-ico">📚</span><span class="qz-nav-txt">Publications</span>
+  </a>
+  <a href="{{ site.baseurl }}/awards/" class="qz-nav-item{% if qzu contains '/awards' %} active{% endif %}">
+    <span class="qz-nav-ico">🏆</span><span class="qz-nav-txt">Awards &amp; Honors</span>
+  </a>
+
   <div class="qz-nav-here">
-    You are currently on
+    You are on
     {% if qzu == '/' %}<b>Home</b>
-    {% elsif qzu contains '/cv' %}<b>Personal Experience</b>
+    {% elsif qzu contains '/experience' %}<b>Experience</b>
     {% elsif qzu contains '/publications' %}<b>Publications</b>
     {% elsif qzu contains '/awards' %}<b>Awards &amp; Honors</b>
     {% endif %}
   </div>
-</div>
+
+  <div class="qz-nav-foot">
+    <a href="mailto:usainzhou@g.ecc.u-tokyo.ac.jp" title="Email">📧 Email</a>
+    <a href="https://scholar.google.com/citations?hl=en&user=P2mHCpgAAAAJ" target="_blank" title="Google Scholar">🔗 Scholar</a>
+  </div>
+</nav>

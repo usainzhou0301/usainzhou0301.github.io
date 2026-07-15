@@ -1,22 +1,17 @@
 ---
-layout: single
+layout: qz
 title: ""
-permalink: /cv/
-author_profile: false
+permalink: /experience/
 redirect_from:
-  - /resume
+  - /cv/
+  - /resume/
 ---
-
-{% include qz-style.html %}
 
 <div class="qz" markdown="0">
 
 <div class="qz-pagehead">
-  <h1>Personal Experience</h1>
-  <p>Education, teaching, student union, projects, and internship experience.</p>
+  <h1>Experience</h1>
 </div>
-
-{% include qz-nav.html %}
 
 <h2>🎓 Education</h2>
 <div class="qz-timeline">
@@ -110,7 +105,7 @@ redirect_from:
   </div>
 </div>
 
-<h2>💼 Internship Experience</h2>
+<h2>💼 Internship</h2>
 <div class="qz-cards">
   <div class="qz-card">
     <span class="qz-date">2021.09 – 2021.12</span>
@@ -129,5 +124,20 @@ redirect_from:
     <div class="qz-body">Chinese Academy of Sciences</div>
   </div>
 </div>
+
+<h2>📖 External Reviewer</h2>
+<ul class="qz-list">
+  <li><b>2026</b> Neural Information Processing Systems (NeurIPS)</li>
+  <li><b>2026</b> IEEE International Conference on Computer Communications (Infocom)</li>
+  <li><b>2026</b> IEEE Global Communications Conference (GLOBECOM)</li>
+  <li><b>2026</b> IEEE Transactions on Cognitive Communications and Networking (TCCN)</li>
+  <li><b>2026</b> Frontiers in Physics (Front. Phys.)</li>
+  <li><b>2026</b> Intelligent Unmanned Technologies and Systems (IUTS)</li>
+  <li><b>2025</b> IEEE International Conference on Communications (ICC)</li>
+  <li><b>2025</b> IEEE Vehicular Technology Conference (VTC)</li>
+  <li><b>2025</b> The Pacific Rim International Conference on Artificial Intelligence (PRICAI)</li>
+  <li><b>2025</b> IEEE Internet of Things Journal (IOTJ)</li>
+  <li><b>2024</b> IEEE Internet of Things Journal (IOTJ)</li>
+</ul>
 
 </div>

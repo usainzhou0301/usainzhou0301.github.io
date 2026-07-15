@@ -1,20 +1,14 @@
 ---
-layout: single
+layout: qz
 title: ""
 permalink: /awards/
-author_profile: false
 ---
-
-{% include qz-style.html %}
 
 <div class="qz" markdown="0">
 
 <div class="qz-pagehead">
-  <h1>Awards, Honors &amp; Service</h1>
-  <p>Selected awards, competition honors, and professional review activities.</p>
+  <h1>Awards &amp; Honors</h1>
 </div>
-
-{% include qz-nav.html %}
 
 <h2>🏆 Awards</h2>
 <ul class="qz-list">
@@ -58,21 +52,6 @@ author_profile: false
   <li><b>2019.04</b> Second Prize, Advanced Mathematics Competition</li>
   <li><b>2018.06</b> Third Prize, "Minsheng Cup" Modeling Competition</li>
   <li><b>2018.06</b> Excellent Award, Physics Experiment Competition</li>
-</ul>
-
-<h2>📖 External Reviewer</h2>
-<ul class="qz-list">
-  <li><b>2026</b> Neural Information Processing Systems (NeurIPS)</li>
-  <li><b>2026</b> IEEE International Conference on Computer Communications (Infocom)</li>
-  <li><b>2026</b> IEEE Global Communications Conference (GLOBECOM)</li>
-  <li><b>2026</b> IEEE Transactions on Cognitive Communications and Networking (TCCN)</li>
-  <li><b>2026</b> Frontiers in Physics (Front. Phys.)</li>
-  <li><b>2026</b> Intelligent Unmanned Technologies and Systems (IUTS)</li>
-  <li><b>2025</b> IEEE International Conference on Communications (ICC)</li>
-  <li><b>2025</b> IEEE Vehicular Technology Conference (VTC)</li>
-  <li><b>2025</b> The Pacific Rim International Conference on Artificial Intelligence (PRICAI)</li>
-  <li><b>2025</b> IEEE Internet of Things Journal (IOTJ)</li>
-  <li><b>2024</b> IEEE Internet of Things Journal (IOTJ)</li>
 </ul>
 
 </div>

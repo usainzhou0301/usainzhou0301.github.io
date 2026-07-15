@@ -19,6 +19,33 @@
   --grey:#7a828c;
 }
 
+/* ---- Page shell: sticky left nav + content ---- */
+#main.qz-shell{
+  max-width:1180px !important;
+  margin:0 auto !important;
+  padding:28px 26px 60px !important;
+  display:grid;
+  grid-template-columns:230px minmax(0,1fr);
+  gap:34px;
+  align-items:start;
+}
+#main.qz-shell .qz-side{
+  position:sticky;
+  top:20px;
+  align-self:start;
+}
+#main.qz-shell .qz-main{
+  min-width:0;
+}
+@media (max-width:900px){
+  #main.qz-shell{
+    grid-template-columns:1fr;
+    padding:20px 16px 48px !important;
+    gap:18px;
+  }
+  #main.qz-shell .qz-side{ position:static; }
+}
+
 /* ---- Base wrapper ---- */
 .qz{
   font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","SF Pro Text",

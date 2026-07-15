@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+{% include base_path %}
+{% include qz-style.html %}
+
+<div id="main" class="qz-shell" role="main">
+  <aside class="qz-side">
+    {% include qz-nav.html %}
+  </aside>
+  <article class="qz-main">
+    {{ content }}
+  </article>
+</div>
