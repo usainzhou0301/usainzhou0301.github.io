@@ -296,7 +296,7 @@ permalink: /
 
 <h3>Conference Paper</h3>
 <ul class="qz-pub">
-  <li>"Joint Capacity Planning and Resource Allocation for UAV-Assisted Vehicular Fog Computing Using Deep Reinforcement Learning", Quanxi Zhou, Wencan Mao, Manabu Tsukada, Yu Xiao,<i> IEEE FMLDS</i> <span class="tag review"></span></li>
+  <li>"Joint Capacity Planning and Resource Allocation for UAV-Assisted Vehicular Fog Computing Using Deep Reinforcement Learning", Quanxi Zhou, Wencan Mao, Manabu Tsukada, Yu Xiao,<i> IEEE International Conference on Future Machine Learning And Data Science (FMLDS)</i> <span class="tag"></span></li>
   <li>"Deep Reinforcement Learning for Automated Guided Vehicle Trajectory Planning in Industry 4.0", Quanxi Zhou, Wencan Mao, Yu Xiao, Manabu Tsukada, Yusheng Ji, 2026 <i>IEEE International Conference on Computer Communications (Infocom Workshop)</i> <span class="tag award">Best Paper Runner-Up</span></li>
   <li>"Trajectory Planning for UAV-Based Smart Farming Using Imitation-Based Triple Deep Q-Learning", Wencan Mao*, Quanxi Zhou*, Tomás Couso Coddou, Manabu Tsukada, Liu Yunling, Yusheng Ji, 2026 <i>IEEE International Conference on Robotics &amp; Automation (ICRA)</i> <span class="tag">Co-first Author</span></li>
   <li>"Priority-Aware Flexible Actor-Critic for Task Scheduling of UAV-Assisted Edge Computing", Yunfei Chen, Quanxi Zhou, Wencan Mao, Ye Tao, Guanzhi Liu, Manabu Tsukada, 2026 <i>International Conference on Future and Intelligent Networking (FINE)</i></li>
