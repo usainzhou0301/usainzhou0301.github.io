@@ -12,9 +12,11 @@ redirect_from:
 <div class="qz" markdown="0">
 
 <div class="qz-pagehead">
-  <h1>Curriculum Vitae</h1>
-  <p>Education, teaching, projects, and internship experience.</p>
+  <h1>Personal Experience</h1>
+  <p>Education, teaching, student union, projects, and internship experience.</p>
 </div>
+
+{% include qz-nav.html %}
 
 <h2>🎓 Education</h2>
 <div class="qz-timeline">
@@ -126,12 +128,6 @@ redirect_from:
     <span class="qz-date">2019.03 – 2019.06</span>
     <div class="qz-body">Chinese Academy of Sciences</div>
   </div>
-</div>
-
-<h2>📬 Contact</h2>
-<div class="qz-contact">
-  <a href="mailto:usainzhou@g.ecc.u-tokyo.ac.jp"><span class="qz-ico">📧</span> usainzhou@g.ecc.u-tokyo.ac.jp</a>
-  <a href="https://scholar.google.com/citations?hl=en&user=P2mHCpgAAAAJ" target="_blank"><span class="qz-ico">🔗</span> Google Scholar</a>
 </div>
 
 </div>

@@ -11,8 +11,10 @@ author_profile: false
 
 <div class="qz-pagehead">
   <h1>Publications</h1>
-  <p>Journal articles, conference papers, arXiv preprints, and ongoing works. Also available on <a href="https://scholar.google.com/citations?hl=en&user=P2mHCpgAAAAJ" target="_blank">Google Scholar</a>.</p>
+  <p>Journal articles, conference papers, arXiv preprints, and ongoing works. See also the <a href="{{ '/' | relative_url }}">homepage</a> for contact and more.</p>
 </div>
+
+{% include qz-nav.html %}
 
 <h2>📖 Journal Articles</h2>
 <ul class="qz-pub">

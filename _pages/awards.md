@@ -10,9 +10,11 @@ author_profile: false
 <div class="qz" markdown="0">
 
 <div class="qz-pagehead">
-  <h1>Awards, Honors & Service</h1>
+  <h1>Awards, Honors &amp; Service</h1>
   <p>Selected awards, competition honors, and professional review activities.</p>
 </div>
+
+{% include qz-nav.html %}
 
 <h2>🏆 Awards</h2>
 <ul class="qz-list">
