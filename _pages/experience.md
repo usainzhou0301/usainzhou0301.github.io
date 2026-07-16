@@ -127,6 +127,7 @@ redirect_from:
 
 <h2>📖 External Reviewer</h2>
 <ul class="qz-list">
+  <li><b>2026</b> Computers and Electrical Engineering </li>
   <li><b>2026</b> Neural Information Processing Systems (NeurIPS)</li>
   <li><b>2026</b> IEEE International Conference on Computer Communications (Infocom)</li>
   <li><b>2026</b> IEEE Global Communications Conference (GLOBECOM)</li>
