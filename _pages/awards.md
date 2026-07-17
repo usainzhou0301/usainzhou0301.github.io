@@ -12,7 +12,7 @@ permalink: /awards/
 
 <h2>🏆 Awards</h2>
 <ul class="qz-list">
-  <li><b>2026.05</b> Best Paper Runner-Up Award, Infocom Workshop 2026</li>
+  <li><b>2026.05</b> Best Paper Runner-Up Award, Infocom Workshop</li>
   <li><b>2024.10</b> SpringGX Award of UTokyo</li>
   <li><b>2024.01</b> Outstanding Graduate of BUAA</li>
   <li><b>2024.01</b> Outstanding Student Leader of BUAA</li>
