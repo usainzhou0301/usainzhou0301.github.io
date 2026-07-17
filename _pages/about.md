@@ -37,6 +37,7 @@ permalink: /
   <span>Homomorphic Encryption</span>
   <span>Privacy-Preserving Computation</span>
   <span>Secure Multi-Party Computation</span>
+	<span>Large Language Model</span>
 </div>
 
 <h2>📬 Contact</h2>
