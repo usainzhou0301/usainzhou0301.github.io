@@ -38,19 +38,6 @@ permalink: /publications/
     <span class="qz-me">Quanxi Zhou</span>, Yongjing Wang, Ruiyu Shen, Jin Nakazato, Manabu Tsukada, Zhenyu Guan,
     <i>IEEE Journal on Miniaturization for Air and Space Systems</i>, DOI: 10.1109/JMASS.2024.3490762.
   </li>
-  <li>
-    "Research and Analysis of Data Value of Online Shopping Platform",
-    <span class="qz-me">Quanxi Zhou</span>, <i>Computer Programming Skills and Maintenance</i>, 2019(01): 87–89.
-  </li>
-  <li>
-    "Analysis of Common Data Preprocessing Technology",
-    <span class="qz-me">Quanxi Zhou</span>, <i>Communications World</i>, 2019, 26(01): 17–18.
-  </li>
-  <li>
-    "Analysis of Key Technologies of Internet Information Security in the Data Era",
-    <span class="qz-me">Quanxi Zhou</span>, <i>Information Recording Materials</i>, 2019, 20(01): 115–116.
-  </li>
-</ul>
 
 <h2>🎤 Conference Papers</h2>
 <ul class="qz-pub">
