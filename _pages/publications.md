@@ -16,7 +16,6 @@ permalink: /publications/
     "CLIFF: A Multi-Modal Remote Sensing Model for Geological Hazard Monitoring Based on Bitemporal UAV Images",
     <span class="qz-me">Quanxi Zhou</span>, Qianxiao, Xinran Wei, Wencan Mao, Yili Ren, Yunfei Chen, Jianzhong Bi, Mingjun Zhao, and Manabu Tsukada,
     <i>Remote Sensing</i>.
-    <span class="tag"></span>
   </li>
 
   <li>
