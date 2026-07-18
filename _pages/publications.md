@@ -129,7 +129,7 @@ permalink: /publications/
     "Automated Guided Vehicle-Enabled Industry 4.0: A Deep Reinforcement Learning Approach",
     <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Manabu Tsukada, Yusheng Ji,
     <i>IEEE Transactions on Industrial Informatics</i>.
-    <span class="tag writing">Under Writing</span>
+    <span class="tag writing">In Preparation</span>
   </li>
 </ul>
 
