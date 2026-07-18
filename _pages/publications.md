@@ -132,5 +132,3 @@ permalink: /publications/
     <span class="tag writing">In Preparation</span>
   </li>
 </ul>
-
-</div>
