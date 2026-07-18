@@ -12,6 +12,13 @@ permalink: /publications/
 
 <h2>📖 Journal Articles</h2>
 <ul class="qz-pub">
+<li>
+    "CLIFF: A Multi-Modal Remote Sensing Model for Geological Hazard Monitoring Based on Bitemporal UAV Images",
+    <span class="qz-me">Quanxi Zhou</span>, Qianxiao, Xinran Wei, Wencan Mao, Yili Ren, Yunfei Chen, Jianzhong Bi, Mingjun Zhao, and Manabu Tsukada,
+    <i>Remote Sensing</i>.
+    <span class="tag"></span>
+  </li>
+
   <li>
     "Uncertainty-Aware Multi-Agent Reinforcement Learning for Anti-Interference Trajectory Planning of Cellular-Connected UAVs",
     <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Jin Nakazato, Yusheng Ji and Manabu Tsukada,
@@ -102,13 +109,7 @@ permalink: /publications/
 
 <h2>🚧 Ongoing Works</h2>
 <ul class="qz-pub">
-  <li>
-    "CLIFF: A Multi-Modal Remote Sensing Model for Geological Hazard Monitoring Based on Bitemporal UAV Images",
-    <span class="qz-me">Quanxi Zhou</span>, Qianxiao, Xinran Wei, Wencan Mao, Yili Ren, Yunfei Chen, Jianzhong Bi, Mingjun Zhao, and Manabu Tsukada,
-    <i>Remote Sensing</i>.
-    <span class="tag review">Major Revision</span>
-  </li>
-  <li>
+    <li>
     "ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization",
     Wencan Mao, <span class="qz-me">Quanxi Zhou</span>, Yilei Liang, Yaxi Liu, Wei Huangfu, Manabu Tsukada, Jon Crowcroft, and Yusheng Ji,
     <i>IEEE Network Magazine</i>.
