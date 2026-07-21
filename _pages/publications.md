@@ -101,8 +101,7 @@ permalink: /publications/
 <h2>🚧 Ongoing Works</h2>
 <ul class="qz-pub">
     <li>
-    "ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization",
-    Wencan Mao, <span class="qz-me">Quanxi Zhou</span>, Yilei Liang, Yaxi Liu, Wei Huangfu, Manabu Tsukada, Jon Crowcroft, and Yusheng Ji,
+    "Decoupling Where-to-Fly from When-to-Upload: AoI-Aware Multi-UAV Data Collection in Urban IoT", <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Yunfei Chen, Junru Li, Jiachen Gong, and Manabu Tsukada,
     <i>IEEE Network Magazine</i>.
     <span class="tag review">Major Revision</span>
   </li>
