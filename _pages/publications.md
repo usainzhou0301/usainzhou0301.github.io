@@ -101,7 +101,7 @@ permalink: /publications/
 <h2>🚧 Ongoing Works</h2>
 <ul class="qz-pub">
     <li>
-    "Decoupling Where-to-Fly from When-to-Upload: AoI-Aware Multi-UAV Data Collection in Urban IoT", <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Yunfei Chen, Junru Li, Jiachen Gong, and Manabu Tsukada,
+    "Decoupling Where-to-Fly from When-to-Upload: Quality- and AoI-Aware Multi-UAV Spatio-Temporal Crowdsourcing", <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Yunfei Chen, Junru Li, Jiachen Gong, and Manabu Tsukada,
     <i>Anonymous Conference Submission</i>.
     <span class="tag review">Under Review</span>
   </li>
