@@ -69,6 +69,12 @@ permalink: /publications/
     2026 <i>International Conference on Future and Intelligent Networking (FINE)</i>.
   </li>
   <li>
+    "NL2TL-Tree: Natural Language to Nested Temporal-Logic Trees for Robustness-Guided Flow-Matching Planning",
+    Jiachen Gong, Wencan Mao, Ehsan Javanmardi, Yun Li, <span class="qz-me">Quanxi Zhou</span>, Manabu Tsukada,
+    2026 <i> 2026 ACM International Joint Conference on Pervasive and Ubiquitous Computing and the 2026 ACM International Symposium on Wearable Computers (UbiComp/ISWC '26), <span class="tag"> Poster </span></i>.
+  </li>
+
+  <li>
     "Design of Anti-Interference Path Planning for Cellular-Connected UAVs Based on Improved DDPG",
     <span class="qz-me">Quanxi Zhou</span>, Yongjing Wang,
     2024 <i>10th IEEE International Conference on High Performance and Smart Computing (HPSC)</i>, pp. 71–76, IEEE, May 2024,
