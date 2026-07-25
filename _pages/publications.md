@@ -70,8 +70,7 @@ permalink: /publications/
   </li>
   <li>
     "NL2TL-Tree: Natural Language to Nested Temporal-Logic Trees for Robustness-Guided Flow-Matching Planning",
-    Jiachen Gong, Wencan Mao, Ehsan Javanmardi, Yun Li, <span class="qz-me">Quanxi Zhou</span>, Manabu Tsukada,
-    2026 <i> 2026 ACM International Joint Conference on Pervasive and Ubiquitous Computing and the 2026 ACM International Symposium on Wearable Computers (UbiComp/ISWC '26), <span class="tag"> Poster </span></i>.
+    Jiachen Gong, Wencan Mao, Ehsan Javanmardi, Yun Li, <span class="qz-me">Quanxi Zhou</span>, Manabu Tsukada, <i> 2026 ACM International Joint Conference on Pervasive and Ubiquitous Computing and the 2026 ACM International Symposium on Wearable Computers (UbiComp/ISWC '26), <span class="tag"> Poster </span></i>
   </li>
 
   <li>
