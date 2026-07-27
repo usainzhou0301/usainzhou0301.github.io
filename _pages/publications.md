@@ -65,7 +65,7 @@ permalink: /publications/
   </li>
   <li>
     "Priority-Aware Flexible Actor-Critic for Task Scheduling of UAV-Assisted Edge Computing",
-    Yunfei Chen, <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Ye Tao, Guanzhi Liu, Manabu Tsukada,
+    Yunfei Chen, <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Ye Tao, Guanzhi Lyu, Manabu Tsukada,
     2026 <i>International Conference on Future and Intelligent Networking (FINE)</i>.
   </li>
   <li>
