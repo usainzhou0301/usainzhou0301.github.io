@@ -60,7 +60,9 @@ permalink: /publications/
   <li>
     "Trajectory Planning for UAV-Based Smart Farming Using Imitation-Based Triple Deep Q-Learning",
     Wencan Mao*, <span class="qz-me">Quanxi Zhou</span>*, Tomás Couso Coddou, Manabu Tsukada, Liu Yunling, Yusheng Ji,
-    2026 <i>IEEE International Conference on Robotics &amp; Automation (ICRA)</i>
+    2026 <i>IEEE International Conference on Robotics &amp; Automation (ICRA),
+	pp. 1-6, DOI: 10.1109/INFOCOM59046.2026.11571634.
+	</i>
     <span class="tag">Co-first Author</span>
   </li>
   <li>
