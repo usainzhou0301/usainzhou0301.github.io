@@ -140,4 +140,9 @@ permalink: /publications/
     <i>IEEE Transactions on Industrial Informatics</i>.
     <span class="tag writing">In Preparation</span>
   </li>
+<li>
+    "Capacity Is Not Utility: A Compact World-Action Model for Budgeted LiDAR Allocation",
+   JIACHEN GONG, Yun Li, Ehsan Javanmardi, Wencan Mao, <span class="qz-me">Quanxi Zhou</span>, Yunfei Chen, and Manabu Tsukada <i>Conference Submission</i>.
+    <span class="tag review"> Under Review</span>
+  </li>
 </ul>
