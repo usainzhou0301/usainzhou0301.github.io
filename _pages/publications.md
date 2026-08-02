@@ -109,7 +109,7 @@ permalink: /publications/
 <ul class="qz-pub">
     <li>
     "Decoupling Where-to-Fly from When-to-Upload: Quality- and AoI-Aware Multi-UAV Spatio-Temporal Crowdsourcing", <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Yunfei Chen, Junru Li, Jiachen Gong, and Manabu Tsukada,
-    <i>Anonymous Conference Submission</i>.
+    <i>IEEE Transactions on Cognitive Communications and Networking (TCCN)</i>.
     <span class="tag review">Under Review</span>
   </li>
   <li>
@@ -134,7 +134,7 @@ permalink: /publications/
     "Energy Harvesting UAV-Enabled Mobile Edge Computing with Sustainable Wireless Power Transfer Scheme",
     Jue Wang, <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Yaxi Liu, Xulong Li, Boxin He, Manabu Tsukada, Wei Huangfu, Keping Long,
     <i>IEEE Transaction on Sustainable Computing</i>.
-    <span class="tag review">Under Review</span>
+    <span class="tag review">Major Revision</span>
   </li>
   <li>
     "Automated Guided Vehicle-Enabled Industry 4.0: A Deep Reinforcement Learning Approach",
