@@ -15,7 +15,7 @@ permalink: /publications/
    <li>
     "ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization",
     Wencan Mao, <span class="qz-me">Quanxi Zhou</span>, Yilei Liang, Yaxi Liu, Wei Huangfu, Manabu Tsukada, Jon Crowcroft, and Yusheng Ji,
-    <i>IEEE Network Magazine</i>, DOI: 10.1109/MNET.2026.3716787. .
+    <i>IEEE Network Magazine</i>, DOI: 10.1109/MNET.2026.3716787. 
   </li>
 <li>
     "CLIFF: A Multi-Modal Remote Sensing Model for Geological Hazard Monitoring Based on Bitemporal UAV Images",
