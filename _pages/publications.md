@@ -15,7 +15,7 @@ permalink: /publications/
    <li>
     "ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization",
     Wencan Mao, <span class="qz-me">Quanxi Zhou</span>, Yilei Liang, Yaxi Liu, Wei Huangfu, Manabu Tsukada, Jon Crowcroft, and Yusheng Ji,
-    <i>IEEE Network Magazine</i>, DOI: 10.1109/MNET.2026.3716787. 
+    <i>IEEE Network Magazine</i>, DOI: 10.1109/MNET.2026.3716787.
   </li>
 <li>
     "CLIFF: A Multi-Modal Remote Sensing Model for Geological Hazard Monitoring Based on Bitemporal UAV Images",
@@ -144,7 +144,7 @@ permalink: /publications/
   </li>
 <li>
     "Capacity Is Not Utility: A Compact World-Action Model for Budgeted LiDAR Allocation",
-   JIACHEN GONG, Yun Li, Ehsan Javanmardi, Wencan Mao, <span class="qz-me">Quanxi Zhou</span>, Yunfei Chen, and Manabu Tsukada <i>Conference Submission</i>.
+   JIACHEN GONG, Yun Li, Ehsan Javanmardi, Wencan Mao, <span class="qz-me">Quanxi Zhou</span>, Yunfei Chen, and Manabu Tsukada <i>Conference Submission </i>.
     <span class="tag review"> Under Review</span>
   </li>
 </ul>
