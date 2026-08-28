@@ -116,12 +116,12 @@ permalink: /publications/
     "Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments",
     <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Yilei Liang, Yixuan Liu, Manabu Tsukada, Jon Crowcroft, John C.S. Lui, and Yusheng Ji,
     <i>IEEE Transactions on Mobile Computing</i>.
-    <span class="tag review">Under Review</span>
+    <span class="tag review">Major Revision</span>
   </li>
   <li>
     "Privacy-Preserving UAV-Assisted Secure Wireless Communication and Computing System Based on Full Homomorphic Encryption",
     <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Ye Tao, Manabu Tsukada, Kensuke Fukuda, and Yusheng Ji,
-    <i>IEEE GLOBECOM</i>.
+    <i>IEEE WCNC</i>.
     <span class="tag review">Under Review</span>
   </li>
   <li>
@@ -141,10 +141,5 @@ permalink: /publications/
     <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Manabu Tsukada, Yusheng Ji,
     <i>IEEE Transactions on Industrial Informatics</i>.
     <span class="tag writing">In Preparation</span>
-  </li>
-<li>
-    "Capacity Is Not Utility: A Compact World-Action Model for Budgeted LiDAR Allocation",
-   JIACHEN GONG, Yun Li, Ehsan Javanmardi, Wencan Mao, <span class="qz-me">Quanxi Zhou</span>, Yunfei Chen, and Manabu Tsukada <i>Conference Submission </i>.
-    <span class="tag review"> Under Review</span>
   </li>
 </ul>
