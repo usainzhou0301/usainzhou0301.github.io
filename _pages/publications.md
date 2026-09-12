@@ -125,9 +125,9 @@ permalink: /publications/
     <span class="tag review">Under Review</span>
   </li>
   <li>
-    "Environment-Aware Multi-UAV Trajectory Planning for Connected Agricultural IoT Systems Using Feature-Driven Reinforcement Learning",
-    <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Byungjin Cho, Ye Tao, Manabu Tsukada,
-    <i>IEEE Transactions on Vehicular Technology</i>.
+    "EI-PANDA: Elite Imitation Point Aggregation Network with Dual Architecture for Trajectory Planning for UAV-Assisted Agricultural Systems",
+    <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Byungjin Cho, Ye Tao, Kensuke Fukuda, and Manabu Tsukada,
+    <i>IEEE Transactions on Communication</i>.
     <span class="tag review">Under Review</span>
   </li>
   <li>
