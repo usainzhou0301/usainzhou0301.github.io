@@ -46,6 +46,19 @@ permalink: /publications/
 
 <h2>🎤 Conference Papers</h2>
 <ul class="qz-pub">
+ <li>
+    "Trajectory Planning for UAV-Based Smart Farming Using Imitation-Based Triple Deep Q-Learning",
+    Wencan Mao*, <span class="qz-me">Quanxi Zhou</span>*, Tomás Couso Coddou, Manabu Tsukada, Liu Yunling, Yusheng Ji,
+    2026 <i>IEEE International Conference on Robotics &amp; Automation (ICRA),
+	pp. 1-6, DOI: 10.1109/INFOCOM59046.2026.11571634.
+	</i>
+    <span class="tag">Co-first Author</span>
+  </li>
+  <li>
+    "MPDS-SAC: Multi-horizon Post-Decision State Soft Actor-Critic for Air-Ground Collaborative Sensing",
+    <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Yunfei Chen, Junru Li, Jiachen Gong, Kensuke Fukuda, and Manabu Tsukada (The University of Tokyo)
+    2026 <i> Asian Internet Engineering Conference (AINTEC)</i>
+  </li>
   <li>
     "Joint Capacity Planning and Resource Allocation for UAV-Assisted Vehicular Fog Computing Using Deep Reinforcement Learning",
     <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Manabu Tsukada, Yu Xiao,
@@ -58,23 +71,10 @@ permalink: /publications/
     <span class="tag award">Best Paper Runner-Up</span>
   </li>
   <li>
-    "Trajectory Planning for UAV-Based Smart Farming Using Imitation-Based Triple Deep Q-Learning",
-    Wencan Mao*, <span class="qz-me">Quanxi Zhou</span>*, Tomás Couso Coddou, Manabu Tsukada, Liu Yunling, Yusheng Ji,
-    2026 <i>IEEE International Conference on Robotics &amp; Automation (ICRA),
-	pp. 1-6, DOI: 10.1109/INFOCOM59046.2026.11571634.
-	</i>
-    <span class="tag">Co-first Author</span>
-  </li>
-  <li>
     "Priority-Aware Flexible Actor-Critic for Task Scheduling of UAV-Assisted Edge Computing",
     Yunfei Chen, <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Ye Tao, Guanzhi Lyu, Manabu Tsukada,
     2026 <i>International Conference on Future and Intelligent Networking (FINE)</i>.
   </li>
-  <li>
-    "NL2TL-Tree: Natural Language to Nested Temporal-Logic Trees for Robustness-Guided Flow-Matching Planning",
-    Jiachen Gong, Wencan Mao, Ehsan Javanmardi, Yun Li, <span class="qz-me">Quanxi Zhou</span>, Manabu Tsukada, <i> 2026 ACM International Joint Conference on Pervasive and Ubiquitous Computing and the 2026 ACM International Symposium on Wearable Computers (UbiComp/ISWC '26), <span class="tag"> Poster </span></i>
-  </li>
-
   <li>
     "Design of Anti-Interference Path Planning for Cellular-Connected UAVs Based on Improved DDPG",
     <span class="qz-me">Quanxi Zhou</span>, Yongjing Wang,
@@ -85,6 +85,10 @@ permalink: /publications/
     "Design of Enterprise Reputation Evaluation Framework Based on Encrypted Decision Tree Algorithm",
     <span class="qz-me">Quanxi Zhou</span>, Ruiyu Shen,
     <i>IOS Press</i>, November 21, 2024, DOI: 10.3233/FAIA241133.
+  </li>
+  <li>
+    "NL2TL-Tree: Natural Language to Nested Temporal-Logic Trees for Robustness-Guided Flow-Matching Planning",
+    Jiachen Gong, Wencan Mao, Ehsan Javanmardi, Yun Li, <span class="qz-me">Quanxi Zhou</span>, Manabu Tsukada, <i> 2026 ACM International Joint Conference on Pervasive and Ubiquitous Computing and the 2026 ACM International Symposium on Wearable Computers (UbiComp/ISWC '26), <span class="tag"> Poster </span></i>
   </li>
 </ul>
 
