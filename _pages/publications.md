@@ -56,7 +56,7 @@ permalink: /publications/
   </li>
   <li>
     "MPDS-SAC: Multi-horizon Post-Decision State Soft Actor-Critic for Air-Ground Collaborative Sensing",
-    <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Yunfei Chen, Junru Li, Jiachen Gong, Kensuke Fukuda, and Manabu Tsukada (The University of Tokyo)
+    <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Yunfei Chen, Junru Li, Jiachen Gong, Kensuke Fukuda, and Manabu Tsukada
     2026 <i> Asian Internet Engineering Conference (AINTEC).</i>
   </li>
   <li>
