@@ -14,33 +14,49 @@ redirect_from:
 </div>
 
 <h2>🎓 Education</h2>
+
 <div class="qz-timeline">
-</div>
-<div class="qz-tl-item">
+
+  <div class="qz-tl-item">
     <div class="qz-date">2027.04 – 2029.03</div>
     <div class="qz-body">JSPS Research Fellow · The University of Tokyo</div>
-    <div class="qz-sub">Graduate School of Information Science and Technology · Tsukada Lab</div>
-<div class="qz-timeline">
+    <div class="qz-sub">
+      Graduate School of Information Science and Technology · Tsukada Lab
+    </div>
+  </div>
+
   <div class="qz-tl-item">
     <div class="qz-date">2024.10 – present</div>
     <div class="qz-body">Ph.D. Student · The University of Tokyo</div>
-    <div class="qz-sub">Graduate School of Information Science and Technology · Tsukada Lab</div>
+    <div class="qz-sub">
+      Graduate School of Information Science and Technology · Tsukada Lab
+    </div>
   </div>
+
   <div class="qz-tl-item">
     <div class="qz-date">2024.04 – 2024.10</div>
     <div class="qz-body">Research Student · The University of Tokyo</div>
-    <div class="qz-sub">Graduate School of Information Science and Technology</div>
+    <div class="qz-sub">
+      Graduate School of Information Science and Technology
+    </div>
   </div>
+
   <div class="qz-tl-item">
     <div class="qz-date">2021.09 – 2024.01</div>
     <div class="qz-body">M.Eng. · Beihang University</div>
-    <div class="qz-sub">School of Cyber Science and Technology · Cyberspace Security</div>
+    <div class="qz-sub">
+      School of Cyber Science and Technology · Cyberspace Security
+    </div>
   </div>
+
   <div class="qz-tl-item">
     <div class="qz-date">2017.09 – 2021.07</div>
     <div class="qz-body">B.Eng. · China Agricultural University</div>
-    <div class="qz-sub">College of Information and Electrical Engineering · Computer Science and Technology (Honors Program)</div>
+    <div class="qz-sub">
+      College of Information and Electrical Engineering · Computer Science and Technology (Honors Program)
+    </div>
   </div>
+
 </div>
 
 <h2>👩‍🏫 Teaching Assistant</h2>
