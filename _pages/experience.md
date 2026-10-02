@@ -16,6 +16,11 @@ redirect_from:
 <h2>🎓 Education</h2>
 <div class="qz-timeline">
   <div class="qz-tl-item">
+    <div class="qz-date">2027.04 – 2029.03</div>
+    <div class="qz-body">JSPS Research Fellow · The University of Tokyo</div>
+    <div class="qz-sub">Graduate School of Information Science and Technology · Tsukada Lab</div>
+<div class="qz-timeline">
+  <div class="qz-tl-item">
     <div class="qz-date">2024.10 – present</div>
     <div class="qz-body">Ph.D. Student · The University of Tokyo</div>
     <div class="qz-sub">Graduate School of Information Science and Technology · Tsukada Lab</div>
