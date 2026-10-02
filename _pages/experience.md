@@ -127,6 +127,19 @@ redirect_from:
   </div>
 </div>
 
+<h2>💰 Funding</h2>
+<div class="qz-cards">
+  <div class="qz-card">
+    <span class="qz-date">2027.04 – 2029.03</span>
+    <div class="qz-body">JSPS DC</div>
+  </div>
+
+  <div class="qz-card">
+    <span class="qz-date">2024.10 – 2027.10</span>
+    <div class="qz-body">JST SPRING GX, The University of Tokyo</div>
+  </div>
+</div>
+
 <h2>💼 Internship</h2>
 <div class="qz-cards">
   <div class="qz-card">
