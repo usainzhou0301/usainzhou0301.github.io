@@ -131,7 +131,7 @@ redirect_from:
 <div class="qz-cards">
   <div class="qz-card">
     <span class="qz-date">2027.04 – 2029.03</span>
-    <div class="qz-body">JSPS DC</div>
+    <div class="qz-body">JSPS DC, The University of Tokyo</div>
   </div>
 
   <div class="qz-card">
