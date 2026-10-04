@@ -140,6 +140,12 @@ permalink: /publications/
     <i>IEEE Transaction on Sustainable Computing</i>.
     <span class="tag review">Major Revision</span>
   </li>
+<li>
+  "Meta-Learning Actor-Critic: A Hybrid Deep Reinforcement Learning Approach for AoI-Aware Smart Agriculture Across Heterogeneous Terrains",
+  <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Kensuke Fukuda, Manabu Tsukada, Yunling Liu,
+  <i>IEEE Vehicular Technology Conference (VTC)</i>.
+  <span class="tag review">Under Review</span>
+</li>
   <li>
     "Automated Guided Vehicle-Enabled Industry 4.0: A Deep Reinforcement Learning Approach",
     <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Manabu Tsukada, Yusheng Ji,
