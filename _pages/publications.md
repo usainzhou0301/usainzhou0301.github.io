@@ -57,7 +57,9 @@ permalink: /publications/
   <li>
     "MPDS-SAC: Multi-horizon Post-Decision State Soft Actor-Critic for Air-Ground Collaborative Sensing",
     <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Yunfei Chen, Junru Li, Jiachen Gong, Kensuke Fukuda, and Manabu Tsukada,
-    2026 <i> Asian Internet Engineering Conference (AINTEC).</i>
+    2026 <i> Asian Internet Engineering Conference (AINTEC).
+<span class="tag award">Travel Grant Award/span>
+</i>
   </li>
   <li>
     "Joint Capacity Planning and Resource Allocation for UAV-Assisted Vehicular Fog Computing Using Deep Reinforcement Learning",
@@ -131,7 +133,7 @@ permalink: /publications/
   <li>
     "EI-PANDA: Elite Imitation Point Aggregation Network with Dual Architecture for Trajectory Planning for UAV-Assisted Agricultural Systems",
     <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Byungjin Cho, Ye Tao, Kensuke Fukuda, and Manabu Tsukada,
-    <i>IEEE Transactions on Communication</i>.
+    <i>IEEE Transactions on Cognitive Communications and Networking (TCCN)</i>.
     <span class="tag review">Under Review</span>
   </li>
   <li>

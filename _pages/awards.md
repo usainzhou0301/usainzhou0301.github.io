@@ -13,8 +13,9 @@ permalink: /awards/
 <h2>🏆 Awards</h2>
 <ul class="qz-list">
 <li><b>2026.10</b> JSPS DC2 Award</li>
-  <li><b>2026.05</b> Best Paper Runner-Up Award, Infocom Workshop</li>
   <li><b>2024.10</b> SpringGX Award of UTokyo</li>
+  <li><b>2026.05</b> Best Paper Runner-Up Award, Infocom Workshop</li>
+  <li><b>2026.10</b> Travel Grant Award, AINTEC</li>
   <li><b>2024.01</b> Outstanding Graduate of BUAA</li>
   <li><b>2024.01</b> Outstanding Student Leader of BUAA</li>
   <li><b>2022.09</b> Learning Excellence Scholarship of BUAA</li>
