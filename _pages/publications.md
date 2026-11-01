@@ -12,6 +12,11 @@ permalink: /publications/
 
 <h2>📖 Journal Articles</h2>
 <ul class="qz-pub">
+  <li>
+    "Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments",
+    <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Yilei Liang, Yixuan Liu, Manabu Tsukada, Jon Crowcroft, John C.S. Lui, and Yusheng Ji,
+    <i>IEEE Transactions on Mobile Computing</i>.
+  </li>
    <li>
     "ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization",
     Wencan Mao, <span class="qz-me">Quanxi Zhou</span>, Yilei Liang, Yaxi Liu, Wei Huangfu, Manabu Tsukada, Jon Crowcroft, and Yusheng Ji,
@@ -117,12 +122,6 @@ permalink: /publications/
     "Decoupling Where-to-Fly from When-to-Upload: Quality- and AoI-Aware Multi-UAV Spatio-Temporal Crowdsourcing", <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Yunfei Chen, Junru Li, Jiachen Gong, and Manabu Tsukada,
     <i>IEEE Transactions on Cognitive Communications and Networking (TCCN)</i>.
     <span class="tag review">Under Review</span>
-  </li>
-  <li>
-    "Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments",
-    <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Yilei Liang, Yixuan Liu, Manabu Tsukada, Jon Crowcroft, John C.S. Lui, and Yusheng Ji,
-    <i>IEEE Transactions on Mobile Computing</i>.
-    <span class="tag review">Major Revision</span>
   </li>
   <li>
     "Privacy-Preserving UAV-Assisted Secure Wireless Communication and Computing System Based on Full Homomorphic Encryption",
