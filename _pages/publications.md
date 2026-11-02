@@ -15,7 +15,7 @@ permalink: /publications/
   <li>
     "Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments",
     <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Yilei Liang, Yixuan Liu, Manabu Tsukada, Jon Crowcroft, John C.S. Lui, and Yusheng Ji,
-    <i>IEEE Transactions on Mobile Computing</i>.
+    <i>IEEE Transactions on Mobile Computing</i>, DOI:10.1109/TMC.2026.3750340.
   </li>
    <li>
     "ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization",
