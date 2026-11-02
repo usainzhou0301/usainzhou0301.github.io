@@ -64,8 +64,6 @@ permalink: /publications/
     <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Yunfei Chen, Junru Li, Jiachen Gong, Kensuke Fukuda, and Manabu Tsukada,
     2026 <i> Asian Internet Engineering Conference (AINTEC).
 <span class="tag award">Travel Grant Award/span>
-</i>
-  </li>
   <li>
     "Joint Capacity Planning and Resource Allocation for UAV-Assisted Vehicular Fog Computing Using Deep Reinforcement Learning",
     <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Manabu Tsukada, Yu Xiao,
