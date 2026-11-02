@@ -63,7 +63,8 @@ permalink: /publications/
     "MPDS-SAC: Multi-horizon Post-Decision State Soft Actor-Critic for Air-Ground Collaborative Sensing",
     <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Yunfei Chen, Junru Li, Jiachen Gong, Kensuke Fukuda, and Manabu Tsukada,
     2026 <i> Asian Internet Engineering Conference (AINTEC).
-<span class="tag award">Travel Grant Award/span>
+<span class="tag award">Travel Grant Award</span>
+  </li>
   <li>
     "Joint Capacity Planning and Resource Allocation for UAV-Assisted Vehicular Fog Computing Using Deep Reinforcement Learning",
     <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Manabu Tsukada, Yu Xiao,
