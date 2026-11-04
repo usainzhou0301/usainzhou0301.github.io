@@ -154,9 +154,9 @@ permalink: /publications/
 <span class="tag review">Under Review</span>
   </li>
   <li>
-    "Automated Guided Vehicle-Enabled Industry 4.0: A Deep Reinforcement Learning Approach",
-    <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Manabu Tsukada, Yusheng Ji,
-    <i>IEEE Transactions on Industrial Informatics</i>.
+    "ComLLM-PDS-TD3: Large Language Model-Assisted Multi-UAV Trajectory Planning for Reliable Cellular Communications",
+    <span class="qz-me">Quanxi Zhou</span>, Yunfei Chen, Danlei Hu, Jiachen Gong, Junru Li, and Manabu Tsukada,
+    <i>IEEE Wireless On-demand Network systems and Services Conference (WONS)</i>.
 <span class="tag review">Under Review</span>
   </li>
 </ul>
