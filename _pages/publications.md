@@ -153,4 +153,10 @@ permalink: /publications/
     <i>IEEE Transactions on Industrial Informatics</i>.
 <span class="tag review">Under Review</span>
   </li>
+  <li>
+    "Automated Guided Vehicle-Enabled Industry 4.0: A Deep Reinforcement Learning Approach",
+    <span class="qz-me">Quanxi Zhou</span>, Wencan Mao, Manabu Tsukada, Yusheng Ji,
+    <i>IEEE Transactions on Industrial Informatics</i>.
+<span class="tag review">Under Review</span>
+  </li>
 </ul>
